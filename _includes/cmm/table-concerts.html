@@ -1,0 +1,41 @@
+<div class="table-container" style="width:100%; font-size:13px;">
+
+<table id="styled-table">
+
+<thead>
+<tr>
+   <th title="Field #1" style="width:18%">Date</th>
+   <th title="Field #2" style="width:14%">Time</th>
+   <th title="Field #3" style="width:68%">Concert</th>
+</tr>
+</thead>
+
+<tbody>
+
+<ul>
+
+{% for concert in include.concerts %}
+
+<tr style="height: 60px;">
+
+   <td>
+   <a href="{{ concert.url }}">{{ concert.date | date: "%B %e" }}</a>
+   </td>
+
+   <td>
+   {{ concert.date | date: "%-I:%M %P" }}
+   </td>
+
+   <td>
+   <b>{{ concert.title }}</b>
+   <div style="font-size:12px; padding-top:4px;"> {{ concert.artists | join: " ∙ " }} </div>
+   </td>
+
+</tr>
+
+{% endfor %}
+
+</ul>
+</tbody>
+</table>
+</div>

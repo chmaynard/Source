@@ -1,0 +1,46 @@
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-Frame-Options" content="sameorigin">
+<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
+<meta name="theme-color" content="#59B5A8">
+
+<!-- CSS -->
+<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/css/fonts.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/css/cobalt.css" | prepend: site.baseurl }}">
+
+<!--Favicon-->
+<link rel="icon" type="image/png" href="/favicon.ico" />
+
+<!-- Canonical -->
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+<!-- Font Awesome -->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+<!-- Google Fonts -->
+
+{% if site.theme_settings.google_fonts %}
+<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
+{% endif %}
+
+<!-- for mathjax support -->
+{% if page.usemathjax %}
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } });
+</script>
+
+<script type="text/javascript" async
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+{% endif %}
+
+{% include cmm/favicon.html %}
+ 
+</head>

@@ -1,0 +1,112 @@
+{% assign media_file = site.static_files | where:"name", include.name %}
+{% assign media_path  = media_file[0].path %}
+
+{% assign media = site.data.media | find:"name", include.name %}
+{% assign type = media.type %}
+{% assign name = media.name %}
+{% assign caption = media.caption %}
+{% assign source = media.source %}
+{% assign website = media.website %}
+
+{% capture div_class %}figure align-{{ include.align }}{% endcapture %}
+
+<div class="{{ div_class }}">
+
+<figure>
+
+<!-- audio block -->
+
+{% if type == "audio" %}
+
+   <audio controls id="conducting-conversations" preload="auto"  volume="0.80" style="width: 600px;" >
+   <source 
+      type="audio/mpeg" 
+      src="https://f001.backblazeb2.com/file/corememorymusic/{{ name }}">
+   Your browser does not support the <code>audio</code> element.
+   </audio>
+
+{% endif %}
+
+
+<!-- video block -->
+
+{% if type == "video" %}
+
+   {% assign aspect = include.aspect | default: "16x9" %}
+
+   {% if aspect == "4x3" %}
+      {% assign width = include.width | default: 480 %}
+      {% assign height = include.height | default: 360 %}
+   {% else %}
+      {% assign width = include.width | default: 640 %}
+      {% assign height = include.height | default: 360 %}
+   {% endif %}
+
+   {% if include.poster %}
+      {% assign poster_file = site.static_files | where:"name", include.poster %}
+      {% assign poster_path = poster_file[0].path %}
+   {% endif %}
+
+   <video controls 
+      width={{ width }} 
+      height={{ height }} 
+      preload=auto 
+      {% if poster %} poster="{{ poster_path }}" {% endif %}
+      style="background-color:black;">
+      <source 
+         src="https://corememorymusic.s3.us-west-001.backblazeb2.com/{{ name }}" 
+         type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+
+{% endif %}
+
+
+<!-- image block -->
+
+{% if type == "image" %}
+
+   {% assign img_class = nil %} 
+
+   {% if include.shadow %} 
+      {% assign img_class = "box-shadow" %} 
+   {% endif %}
+
+   <img src="{{ media_path }}" alt="{{ caption }}" class="{{ img_class }}" >
+
+{% endif %}
+
+
+<!-- caption block -->
+
+<style>
+
+#figcaption {
+   font-size: 0.95em;
+   font-style: italic;
+   line-height: 1.6;
+   padding-top: 0.75em;
+   text-align: center; 
+}
+
+</style>
+
+{% if source %}
+{% if website %}
+   {% capture source %} Credit: <a href='{{ website }}'>{{ source }}</a>{% endcapture %}
+{% else %}
+   {% capture source %} Credit: {{ source }} {% endcapture %}
+{% endif %}
+{% endif %}
+
+<div id="figcaption">
+   <figcaption>
+   {% if caption %} {{ caption }} {% endif %}
+   {% if caption and source %} <br/> {% endif %}
+   {% if source %} {{ source }} {% endif %}
+   </figcaption>
+</div>
+
+</figure>
+
+</div>

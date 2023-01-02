@@ -1,0 +1,41 @@
+<div class="table-container" style="width:100%; font-size:13px;">
+
+<table id="styled-table" markdown="1">
+
+<thead>
+<tr>
+<th title="Field #1" style="width:30%">Composer</th>
+<th title="Field #2" style="width:45%">Work</th>
+<th title="Field #3" style="width:14%">Catalog</th>
+<th title="Field #4" style="width:11%">Year</th>
+</tr>
+</thead>
+
+<tbody>
+
+<ul>
+
+{% assign composer = nil %}
+
+{% for row in include.rows %}
+
+  {% assign composition = site.data.compositions | find_exp:"item", "item.key == row.key" %}
+
+<tr>
+{% if composition.composer != composer %}
+   <td>{{ composition.composer }}</td>
+{% assign composer = composition.composer %}
+{% else %}
+   <td></td>
+{% endif %}
+   <td>{{ composition.title }}</td>
+   <td>{{ composition.catalog }}</td>
+   <td>{{ composition.year }}</td>
+</tr>
+
+{% endfor %}
+
+</ul>
+</tbody>
+</table>
+</div>

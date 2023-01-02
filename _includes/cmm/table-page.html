@@ -1,0 +1,28 @@
+<div class="table-container">
+
+<table id="styled-table">
+
+<thead>
+<tr>
+<th>Date</th>
+<th>Media</th>
+</tr>
+</thead>
+
+<tbody>
+
+<ul>
+
+{% for page in include.pages %}
+  <tr style="height: 48px;">
+    <td>{{ page.date | date: "%b %e, %Y" }}</td>
+    <td>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    </td>
+  </tr>
+{% endfor %}
+
+</ul>
+</tbody>
+</table>
+</div>

@@ -1,0 +1,35 @@
+- month: 01
+  image: gothic-road.jpg
+
+- month: 02
+  image: whetstone.png
+
+- month: 03
+  image: crescent-moon.jpg
+
+- month: 04
+  image: april-sky.png
+
+- month: 05
+  image: upper-delaware.jpg
+
+- month: 06
+  image: prairie.jpg
+
+- month: 07
+  image: uncompahgre-peak.jpg
+
+- month: 08
+  image: jerusalem.png
+
+- month: 09
+  image: high-sierra.jpg
+
+- month: 10
+  image: autumn-leaves.jpg
+
+- month: 11
+  image: forest-in-mist.png
+
+- month: 12
+  image: bridge-in-fog.png

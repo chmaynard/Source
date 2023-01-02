@@ -1,0 +1,60 @@
+<!--
+
+Map day-of-year to astronomical season (non-leap year)
+
+1 spring = range(80, 171)
+2 summer = range(172, 263)
+3 autumn = range(264, 354)
+0 winter = everything else
+  
+banners.yml
+
+# Winter (21-Dec to 20-Mar)
+- 
+   - crescent-moon.jpg
+   - whetstone.png
+   - gothic-road.jpg
+
+# Spring (21-Mar to 20-Jun)
+- 
+   - april-sky.png
+   - upper-delaware.jpg
+   - ghent-azalea.png
+
+# Summer (21-Jun to 20-Sep)
+- 
+   - jerusalem.png
+   - prairie.jpg
+   - tickseed-sunflower.png
+
+# Autumn (21-Sep to	20-Dec)
+- 
+   - autumn-leaves.jpg
+   - high-sierra.jpg
+   - forest-in-mist.png
+
+-->
+  
+{% if page.banner %}
+
+   {% assign banner_image = page.banner %}
+
+{% else %}
+
+   {% assign day = page.date | date: "%j" | to_integer %}
+
+   {% if day >= 80 and day <= 171 %}
+     {% assign season = 1 %}
+   {% elsif day >= 172 and day <= 263 %}
+     {% assign season = 2 %}
+   {% elsif day >= 264 and day <= 354 %}
+     {% assign season = 3 %}
+   {% else %}
+     {% assign season = 0 %}
+   {% endif %}
+
+   {% assign banner_image = site.data.banners[season] | sample %}
+
+{% endif %}
+
+{% assign banner_file = site.static_files | where: "name", banner_image %}

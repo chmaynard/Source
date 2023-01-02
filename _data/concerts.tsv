@@ -1,0 +1,103 @@
+date	concert	type	title	path
+2017-09-09T19:30:00-04:00	krasner	Solo Piano	An Evening with Benjamin Krasner	concerts/2017/krasner
+2017-10-14T19:30:00-04:00	ekery-boudreau	Voice and Piano	An Evening with Amanda Ekery	concerts/2017/ekery-boudreau
+2017-11-11T19:30:00-05:00	jeong	Solo Piano	An Evening with Seolyeong Jeong	concerts/2017/jeong
+2017-12-09T19:30:00-05:00	lee-choi	Solo Piano	An Evening with Dongwon Lee	concerts/2017/lee-choi
+2018-01-13T19:30:00-05:00	yao	Solo Piano	An Evening with Chengcheng Yao	concerts/2018/yao
+2018-02-10T19:30:00-05:00	simsive	Solo Piano	An Evening with Sophiko Simsive	concerts/2018/simsive
+2018-03-10T19:30:00-05:00	wu	Solo Piano	An Evening with Christine Wu	concerts/2018/wu
+2018-04-14T19:30:00-04:00	ekery-boudreau2	Voice and Piano	Jazz Reimagined	concerts/2018/ekery-boudreau2
+2018-05-12T19:30:00-04:00	giesbrecht	Solo Piano	An Evening with Robin Giesbrecht	concerts/2018/giesbrecht
+2018-06-15T19:30:00-04:00	goodpasture	Solo Piano	An Evening with Christopher Goodpasture	concerts/2018/goodpasture
+2018-09-08T19:30:00-04:00	yao-chaplikov	Piano Four-Hands	An Evening with the Yao–Chaplikov Duo	concerts/2018/yao-chaplikov
+2018-10-19T19:30:00-04:00	curtis-opera	Voice and Piano	An Evening with the Curtis Opera Theatre	concerts/2018/curtis-opera
+2018-11-10T19:30:00-05:00	strata	Solo Piano	An Evening with Gabriele Strata	concerts/2018/strata
+2018-12-01T19:30:00-05:00	tetzloff	Solo Piano	An Evening with Reed Tetzloff	concerts/2018/tetzloff
+2018-12-22T19:30:00-05:00	orth-duo	Violin and Piano	An Evening with the Orth Duo	concerts/2018/orth-duo
+2019-01-12T19:30:00-05:00	huang	Solo Piano	An Evening with Hilda Huang	concerts/2019/huang
+2019-02-09T19:30:00-05:00	wang-xi	Violin and Piano	An Evening with Sophie Wang	concerts/2019/wang-xi
+2019-03-02T19:30:00-05:00	giesbrecht-korting	Piano Four-Hands	An Evening with Arianna and Robin	concerts/2019/giesbrecht-korting
+2019-04-20T19:30:00-04:00	poon	Solo Piano	An Evening with Tiffany Poon	concerts/2019/poon
+2019-05-11T19:30:00-04:00	tekalli-duo	Violin and Piano	An Evening with the Tekalli Duo	concerts/2019/tekalli-duo
+2019-06-07T19:30:00-04:00	orsen-garbot	Violin and Viola	Music for Violin and Viola	concerts/2019/orsen-garbot
+2019-10-12T19:30:00-04:00	horowitz-wu	Violin and Piano	An Evening with Ariel Horowitz	concerts/2019/horowitz-wu
+2019-11-09T19:30:00-05:00	tang	Solo Piano	An Evening with Stephanie Tang	concerts/2019/tang
+2020-01-04T19:30:00-05:00	lu	Solo Piano	An Evening with Janice Lu	concerts/2020/lu
+2020-01-25T19:30:00-05:00	orth	Solo Piano	An Evening with Kyle Orth	concerts/2020/orth
+2020-02-15T19:30:00-05:00	szokolay-simsive	Violin and Piano	An Evening with Sophia Szokolay	concerts/2020/szokolay-simsive
+2020-03-14T19:30:00-04:00	tetzloff2	Solo Piano	An Evening with Reed Tetzloff	concerts/2020/tetzloff2
+2020-09-12T15:00:00-04:00	aya-trio	Piano Trio	An Afternoon with the AYA Piano Trio	concerts/2020/aya-trio
+2020-10-03T15:00:00-04:00	gusev	Solo Piano	Ivan Gusev in Concert	concerts/2020/gusev
+2021-04-03T15:00:00-04:00	mak	Solo Piano	Jonathan Mak in Concert	concerts/2021/mak
+2021-04-17T15:00:00-04:00	li	Solo Piano	An Afternoon with Ying Li	concerts/2021/li
+2021-05-01T15:00:00-04:00	bartosik	Solo Piano	Nora Bartosik in Concert	concerts/2021/bartosik
+2021-05-08T15:00:00-04:00	honn-mak	Oboe and Piano	Jillian Honn in Concert	concerts/2021/honn-mak
+2021-05-15T15:00:00-04:00	gabrielian	Solo Piano	Tanya Gabrielian in Concert	concerts/2021/gabrielian
+2021-05-29T15:00:00-04:00	kasdan-amper	Violin and Piano	Becca Kasdan in Concert	concerts/2021/kasdan-amper
+2021-06-19T15:00:00-04:00	qian	Solo Piano	Anran Qian in Concert	concerts/2021/qian
+2021-06-26T15:00:00-04:00	lewis-ozel	Violin and Piano	An Afternoon with Geneva Lewis	concerts/2021/lewis-ozel
+2021-09-04T15:00:00-04:00	barlourdet-quartet	String Quartet	An Afternoon with the Balourdet Quartet	concerts/2021/barlourdet-quartet
+2021-09-11T15:00:00-04:00	park-vardenega	Cello and Piano	Chase Park in Concert	concerts/2021/park-vardenega
+2021-09-25T15:00:00-04:00	meinrenken-kim	Violin and Piano	Emma Meinrenken in Concert	concerts/2021/meinrenken-kim
+2021-10-09T15:00:00-04:00	gusev2	Solo Piano	Ivan Gusev in Concert	concerts/2021/gusev2
+2021-10-16T15:00:00-04:00	bartosik2	Solo Piano	Nora Bartosik in Concert	concerts/2021/bartosik2
+2021-10-30T15:00:00-04:00	szokolay-lu	Violin and Piano	Sophia Szokolay in Concert	concerts/2021/szokolay-lu
+2021-11-06T15:00:00-04:00	yao2	Solo Piano	An Afternoon with Chengcheng Yao	concerts/2021/yao2
+2021-11-13T14:00:00-05:00	leunis-lu	Violin and Piano	Anna Leunis in Concert	concerts/2021/leunis-lu
+2021-12-04T14:00:00-05:00	yale—trio	Piano Trio	Gregory Lewis and Friends	concerts/2021/yale—trio
+2021-12-11T14:00:00-05:00	katz-myer	Cello and Piano	Michael Katz in Concert	concerts/2021/katz-myer
+2022-01-08T14:00:00-05:00	lewis-martins	Violin and Cello	Music for Violin and Cello	concerts/2022/lewis-martins
+2022-01-22T14:00:00-05:00	mak2	Solo Piano	Jonathan Mak in Concert	concerts/2022/mak2
+2022-02-12T14:00:00-05:00	ozel	Solo Piano	An Afternoon with Evren Ozel	concerts/2022/ozel
+2022-03-05T14:00:00-05:00	callisto-quartet	String Quartet	An Afternoon with the Callisto Quartet	concerts/2022/callisto-quartet
+2022-03-19T15:00:00-04:00	kanagawa-simsive	Violin and Piano	Mayumi Kanagawa in Concert	concerts/2022/kanagawa-simsive
+2022-04-04T19:30:00-04:00	tran	Solo Guitar	An evening with An Tran	concerts/2022/tran
+2022-04-09T15:00:00-04:00	trio-gaia	Piano Trio	Trio Gaia in Concert	concerts/2022/trio-gaia
+2022-05-14T15:00:00-04:00	decaprio-park	Cello and Piano	Samuel DeCaprio in Concert	concerts/2022/decaprio-park
+2022-05-28T15:00:00-04:00	merz-trio	Piano Trio	An Afternoon with the Merz Trio	concerts/2022/merz-trio
+2022-06-04T15:00:00-04:00	amper	Solo Piano	Kreisleriana Revealed	concerts/2022/amper
+2022-06-25T19:30:00-04:00	kim	Solo Violin	The Art of Solo Violin	concerts/2022/kim
+2022-06-26T15:00:00-04:00	gagliano	Solo Piano	An Afternoon with Avery Gagliano	concerts/2022/gagliano
+2022-08-13T16:00:00-04:00	tang2	Solo Piano	From Guildhall With Love	concerts/2022/tang2
+2022-08-20T16:00:00-04:00	zyzak-gorini	Violin and Piano	An Affair of the Heart	concerts/2022/zyzak-gorini
+2022-08-27T16:00:00-04:00	meinrenken-weaver	Violin and Piano	A Match Made at Curtis	concerts/2022/meinrenken-weaver
+2022-09-10T15:00:00-04:00	barlourdet-quartet2	String Quartet	An Afternoon with the Balourdet Quartet	concerts/2022/barlourdet-quartet2
+2022-10-08T15:00:00-04:00	wang	Solo Piano	Wynona Wang in Concert	concerts/2022/wang
+2022-10-22T15:00:00-04:00	park-sasaki	Violin and Piano	An Afternoon with Grace Park	concerts/2022/park-sasaki
+2022-11-05T14:00:00-04:00	robertson-lorusso	Voice and Piano	Songs for an Autumn Afternoon	concerts/2022/robertson-lorusso
+2022-11-19T14:00:00-05:00	szokolay-chen	Violin and Piano	Kreutzer Sonata	concerts/2022/szokolay-chen
+2022-12-03T14:00:00-05:00	ozel2	Solo Piano	Evren Ozel in Concert	concerts/2022/ozel2
+2022-12-17T14:00:00-05:00	abeo-quartet	String Quartet	A Holiday Celebration with the Abeo Quartet	concerts/2022/abeo-quartet
+2023-01-14T14:00:00-05:00	zaks-ji	Violin and Piano	A Winter Afternoon with Ilana Zaks	concerts/2023/zaks-ji
+2023-01-28T14:00:00-05:00	trio-conventi	Piano Trio	Introducing Trio Conventi	concerts/2023/trio-conventi
+2023-02-11T14:00:00-05:00	bass	Solo Piano	An Afternoon with Jonathan Bass	concerts/2023/bass
+2023-02-18T14:00:00-05:00	orsen-columbat	Viola and Piano	Wagner's Nightmare	concerts/2023/orsen-columbat
+2023-03-04T14:00:00-05:00	spiegelberg-simsive	Clarinet and Piano	An Afternoon with Yasmina Spiegelberg	concerts/2023/spiegelberg-simsive
+2023-03-11T15:00:00-05:00	fensome	Solo Piano		concerts/2023/fensome
+2023-03-16T19:30:00-04:00	bennewitz-quartet	String Quartet		concerts/2023/bennewitz-quartet
+2023-03-25T15:00:00-04:00	yang-bang	Cello and Piano		concerts/2023/yang-bang
+2023-04-01T15:00:00-04:00	wolf	Violin and Piano		concerts/2023/wolf
+2023-04-08T15:00:00-04:00	trio-gaia2	Piano Trio		concerts/2023/trio-gaia2
+2023-04-15T15:00:00-04:00	gallagher-tbd	Flute and Harp		concerts/2023/gallagher-tbd
+2023-04-22T15:00:00-04:00	myer	Solo Piano		concerts/2023/myer
+2023-05-27T15:00:00-04:00	orth-azzi	Piano Four-Hands		concerts/2023/orth-azzi
+2023-06-03T15:00:00-04:00	lio	Solo Piano		concerts/2023/lio
+2023-06-17T15:00:00-04:00	wang-tbd	Violin and Piano		concerts/2023/wang-tbd
+2023-08-12T15:00:00-04:00	chan-tbd	Violin and Piano		concerts/2023/chan-tbd
+2023-08-26T15:00:00-04:00	feil-wu	Oboe and Bassoon		concerts/2023/feil-wu
+2023-09-09T15:00:00-04:00	weaver	Solo Piano		concerts/2023/weaver
+2023-09-23T15:00:00-04:00	callisto-quartet2	String Quartet		concerts/2023/callisto-quartet2
+2023-10-14T15:00:00-04:00	merz-trio2	Piano Trio		concerts/2023/merz-trio2
+2023-10-28T15:00:00-04:00	decaprio-tbd	Cello and Piano		concerts/2023/decaprio-tbd
+2023-11-11T14:00:00-05:00	sekino	Solo Piano		concerts/2023/sekino
+2023-11-18T14:00:00-05:00	ekery-boudreau3	Voice and Piano		concerts/2023/ekery-boudreau3
+2023-12-02T14:00:00-05:00	meinrenken-tbd	Violin and Piano		concerts/2023/meinrenken-tbd
+2023-12-16T14:00:00-05:00	wohlgemuth-colombat	Voice and Piano		concerts/2023/wohlgemuth-colombat
+2024-01-06T14:00:00-05:00	gray-lio	Voice and Piano		concerts/2024/gray-lio
+2024-01-20T14:00:00-05:00	ozel3	Solo Piano		concerts/2024/ozel3
+2024-02-03T14:00:00-05:00	johnson	Solo Piano		concerts/2024/johnson
+2024-02-17T14:00:00-05:00	lysander-trio	Piano Trio		concerts/2024/lysander-trio
+2024-03-16T15:00:00-04:00	lin	Solo Piano		concerts/2024/lin
+2024-04-13T15:00:00-04:00	thomas	Viola and Piano		concerts/2024/thomas
+2024-05-11T15:00:00-04:00	nersessian	Solo Piano		concerts/2024/nersessian
+2024-06-08T15:00:00-04:00	xu-fellenberg	Piano Four-Hands		concerts/2024/xu-fellenberg

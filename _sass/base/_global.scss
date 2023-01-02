@@ -1,0 +1,198 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+figure {
+  margin: 0;
+}
+// For correct line number width in Github Gists
+.gist table tbody tr td {
+  box-sizing: content-box;
+}
+html {
+  background: $background-color;
+}
+
+// Typography
+::selection {
+  background: $selection-color;
+}
+::-moz-selection {
+  background: $selection-color;
+}
+
+body {
+  color: $text-color;
+  font-family: $font-family-body;
+  word-wrap: break-word;
+  font-size: $font-size;
+  // see https://css-tricks.com/books/volume-i/scale-typography-screen-size/
+  // font-size: calc(.5em + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  // line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-head;
+  line-height: 1.3;
+  margin: 0.60em 0;
+  a {
+    color: $text-color;
+  }
+}
+h1 {
+  font-size: 2.4em;
+}
+h2 {
+  font-size: 2.0em;
+  padding-top: 16px;
+}
+h3 {
+  font-size: 1.75em;
+  padding-top: 12px;
+}
+h4 {
+  font-size: 1.5em;
+  padding-top: 12px;
+}
+h5 {
+  font-size: 1.25em;
+}
+h6 {
+  font-size: 1.0em;
+}
+code {
+    font-size: 0.9em;
+}
+blockquote {
+    border-left: 2px solid;
+    padding: 1em 1em;
+}
+blockquote p:last-child,
+footer p:last-child {
+  margin-bottom: 0;
+}
+table {
+  table-layout:auto;
+  width:100%;
+  word-wrap:break-word;
+  @media (max-width: 800px) {
+    overflow-x: hidden;
+    display: table;
+  }
+}
+
+.centered-table {
+   margin-left: auto;
+   margin-right: auto;
+}
+
+td,
+th {
+  padding: 0.3em 0.0em;
+  border: 0px solid $border-color;
+  text-align: left;
+  white-space: wrap;
+}
+table,
+dl,
+blockquote,
+code,
+kbd,
+pre,
+samp {
+  margin: 1em 0;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+    margin-left: 2em;
+}
+p, ol, ul, dl, .math-display {
+  line-height: 1.5;
+  margin-bottom: 1em;
+}
+// KaTeX math display
+.math-display {
+  display: inline-block;
+  width: 100%;
+}
+// Lists within lists
+li > ul, li > ol {
+    margin-bottom: 0;
+    margin-left: 1em;
+}
+ol, ul {
+  list-style-position: inside;
+  //list-style-type: square;
+}
+hr {
+  border: 0;
+  border-top: 1px solid $border-color;
+  border-bottom: 1px solid #fff;
+  margin: 1em 0;
+}
+a {
+  color: $link-color;
+  text-decoration: none;
+}
+.nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+// Responsive media
+
+// .responsive {
+//   width: 100%;
+//   height: auto;
+// }
+//
+// IMG.centered {
+//     display: block;
+//     margin-left: auto;
+//     margin-right: auto
+// }
+//
+// iframe, img, embed, object, video {
+//   max-width: 125%;
+// }
+// img[align=left] {
+//   margin-right: 3%;
+// }
+// img[align=right] {
+//   margin-left: 3%;
+// }
+
+// inline quotes
+
+blockquote {
+    margin: 1.5em 0;
+    padding: 0 1.6em;
+    border-left:.5em solid $link-color;
+}
+
+// table of contents
+
+#markdown-toc::before {
+    content: "Contents";
+    font-size: 1.75em;
+    font-weight: bold;
+    line-height: 2.0em;
+}
+
+#markdown-toc {
+    background-color: #f0f2f4;
+    border: 1px solid #aaa;
+    padding: 0.5em 4.0em 1.5em 4.0em;
+    display: inline-block;
+}
+
+// footnotes
+
+// .footnote {
+//    padding-left: 12px;
+//     text-indent: -12px;
+// }

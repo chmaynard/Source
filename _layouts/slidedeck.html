@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Italian Songbook</title>
+    <meta charset="utf-8">
+    <style>
+        @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+        @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+        @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+        @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic);
+
+        h1, h2, h3 {
+            font-family: 'Yanone Kaffeesatz';
+            font-weight: normal;
+        }
+
+        body { font-family: 'Source Sans Pro'; font-size: 24px; line-height: 1.6; }
+
+        .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+        .dark {background-color:#1a1a1a; color: #bcdcd5;}
+      
+        .flex-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: stretch;
+            white-space: pre-line;
+            font-family: 'Source Sans Pro';
+            font-size: 24px;
+            line-height: 1.6;
+        }
+        .flex-column {
+            flex: 1;
+        }
+
+      </style>
+</head>
+
+<textarea id="source">
+{{ content }}
+</textarea>
+
+<body>
+
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+
+    <script type="text/javascript">
+        var slideshow = remark.create({ratio: '2:1', navigation: {click: true, scroll: false,},});
+    </script>
+
+</body>
+</html>

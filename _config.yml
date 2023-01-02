@@ -1,0 +1,214 @@
+# =============================================================================
+#     SITE CONFIGURATION
+# =============================================================================
+
+url: https://corememorymusic.com
+
+# -----------------------------------------------------------------------------
+#     THEME SETTINGS 
+# -----------------------------------------------------------------------------
+
+theme_settings:
+
+   # Meta
+   title: Core Memory Music™
+   avatar: logo.png
+   favicon: /assets/icons/favicon.ico
+   description: "A website with blog posts and pages" # used by search engines
+   author: "Craig H Maynard"
+   rss: "Core Memory Music™"
+   email_address: craig@corememorymusic.com
+
+   # Header and footer text
+   header_text: >
+   # header_text_feature_image: assets/images/banners/bridge-in-fog.png
+   footer_text: >
+      Powered by <a href="https://jekyllrb.com/">Jekyll</a> ∙
+      Hosted on <a href="https://pages.github.com">GitHub</a>
+
+   # Localization strings
+   str_follow_on: "Follow on"
+   str_rss_follow: "Follow RSS feed"
+   str_email: "Email"
+   str_next: "Next"
+   str_prev: "Prev"
+   str_continue_reading: "Continue reading"
+
+   # Colours, typography and padding
+   # google_fonts: "Source+Sans+Pro:400,400italic,700,700italic"
+   # more typography stuff in _includes/head.html, _sass/base/_variables.scss
+
+   # Post navigation
+   post_navigation: false
+   
+   site_navigation_order: "order"
+   
+# -----------------------------------------------------------------------------
+#     BUILD SETTINGS
+# -----------------------------------------------------------------------------
+
+future                  : true
+incremental             : false
+keep_files              : [.git, "CNAME"]
+destination             : /Users/Core/CMM/Site
+
+# The Jekyll layout 'compress.html' uses Liquid to compress HTML content.
+# Source: https://github.com/penibelst/jekyll-compress-html
+
+compress_html:
+   clippings: all
+   comments: ["<!-- ", " -->"]
+   endings: all
+   ignore:
+      envs: []
+   blanklines: false
+   profile: false
+   startings: [html, head, body]
+
+# Use collections to distinguish between pages, blog posts, and concerts
+# https://jekyllrb.com/docs/collections/
+
+collections_dir: collections
+
+collections:
+   pages:
+      output: true
+      permalink: /:name:output_ext
+   posts:
+      output: true
+      permalink: /:collection/:title:output_ext
+   drafts:
+      output: true
+      permalink: /:collection/:title:output_ext
+   concerts:
+      output: true
+      sort_by: date
+      permalink: /:collection/:path:output_ext
+   media:
+      output: true
+      permalink: /:collection/:path:output_ext
+
+plugins:
+   - jekyll-include-cache 
+   - jekyll-redirect-from
+   - jekyll-seo-tag
+   - jekyll-sitemap
+   
+#  - jekyll-archives           # https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+#  - jekyll-contentblocks      # https://github.com/rustygeldmacher/jekyll-contentblocks#readme
+#  - jekyll-github-metadata    # https://github.com/jekyll/github-metadata#readme
+#  - jekyll-include-cache      # https://github.com/benbalter/jekyll-include-cache#readme
+#  - jekyll-maps               # https://github.com/ayastreb/jekyll-maps#readme
+#  - jekyll-responsive-image   # https://github.com/wildlyinaccurate/jekyll-responsive-image#jekyll-responsive-image
+
+
+# -----------------------------------------------------------------------------
+#     CONFIGURATION DATA
+# -----------------------------------------------------------------------------
+
+jekyll-archives:
+   enabled: []
+   layout: archive
+   permalinks:
+      year: '/:year/'
+      month: '/:year/:month/'
+      day: '/:year/:month/:day/'
+      tag: '/tag/:name/'
+      category: '/category/:name/'
+    
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+     - width: 320
+     - width: 480
+     - width: 800
+
+gist:
+   noscript: false
+  
+markdown: kramdown
+
+kramdown:
+   syntax_highlighter: rouge
+   input: GFM
+   auto_ids:      true
+   line_width:    80
+   toc_levels:    1..3
+   footnote_backlink: "&#x21A9;&#xFE0E;"
+   
+highlighter: rouge
+
+liquid:
+   error_mode: strict
+   strict_filters: true
+   strict_variables: false
+
+sass:
+   sass_dir: _sass
+   style: :compressed
+
+exclude:
+   - Gemfile*
+   - Rakefile
+   - workflow.sh
+   - bin/
+
+include:
+   - _api
+   - .nojekyll
+
+defaults:
+
+   -  scope:
+         path: ""
+         type: "concerts"
+      values:
+         layout: concert
+         hide: false
+         contribution: $50
+         emptyArray: []
+
+   -  scope:
+         path: ""
+         type: "pages"
+      values:
+         layout: page
+         hide: true
+         banner: ukraine.png
+
+   -  scope:
+         path: ""
+         type: "posts"
+      values:
+         layout: post
+         hide: false
+         banner: uncompahgre-peak.jpg
+
+   -  scope:
+         path: ""
+         type: "media"
+      values:
+         layout: page
+         hide: false
+         banner: bridge-in-fog.png
+
+   -  scope:
+         path: "assets/images/*"
+      values:
+         media_type: image
+
+tsv_reader:
+    encoding: utf-8
+    headers: true
+#    converters:
+#      - numeric
+#      - datetime
+
+# Initialize an empty array into a YAML property:
+# emptyArray: []
+
+# Access that property in a Liquid template:
+# {% assign my_array = site.emptyArray %}
+
+# Push values into the array:
+# {% assign my_array = my_array | push: 'value' %}

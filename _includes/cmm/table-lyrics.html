@@ -1,0 +1,25 @@
+<div class="table-container">
+
+<table id="basic-table">
+
+<thead>
+   <th title="Field #1" style="width:50%">French</th>
+   <th title="Field #2" style="width:50%">English</th>
+</thead>
+
+{% assign lines = site.data.lyrics | where:"song", include.song %} 
+
+<tbody style="font-style:italic;" >
+
+    {% for line in lines %}
+        <tr>
+        <td>{{ line.french }}</td>
+        <td>{{ line.english }}</td>
+        </tr>
+    {% endfor %}
+
+</tbody>
+
+</table>
+
+</div>

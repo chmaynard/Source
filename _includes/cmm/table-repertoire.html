@@ -1,0 +1,41 @@
+<div class="table-container" style="width:100%; font-size:13px;">
+
+<table id="styled-table">
+
+<thead>
+<tr>
+<th title="Field #1" style="width:27%">Composer</th>
+<th title="Field #2" style="width:45%">Work</th>
+<th title="Field #3" style="width:14%">Catalog</th>
+<th title="Field #4" style="width:14%">Performed</th>
+</tr>
+</thead>
+
+<tbody>
+
+<ul>
+
+{% for item in include.items %}
+
+<tr>
+{% if item.composer != previous %}
+   <td>{{ item.composer }}</td>
+{% assign previous = item.composer %}
+{% else %}
+   <td></td>
+{% endif %}
+  <td>{{ item.title }}</td>
+  <td>{{ item.catalog }}</td>
+  <td><a href="{{ item.path }}">{{ item.date | date: "%b %Y"  }}</a></td>
+</tr>
+
+{% endfor %}
+
+</ul>
+</tbody>
+</table>
+</div>
+
+{% comment %}
+{% assign surname = item.composer | split: " " | last %}
+{% endcomment %}

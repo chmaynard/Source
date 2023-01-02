@@ -1,0 +1,37 @@
+{% if page.capacity > 0 %}
+
+## About the Concert
+
+{% include cmm/venue.html %}
+
+**This performance begins at {{ page.date | date:"%-I:%M %P" }}**. One hour before the
+performance, join us for a discussion about the music on the program. After the performance,
+you'll have an opportunity to meet the artists and learn about their backgrounds, interests,
+and career plans. 
+
+### Reservations
+
+{% capture address %}{{ site.theme_settings.email_address }}{% endcapture %}
+{% capture subject %}Reservation for {{ page.date | date: "%A, %B %e" }}{% endcapture %}
+
+If you'd like to attend this concert, send an email to
+[craig@corememorymusic.com](mailto:{{address}}?subject={{subject}}) 
+with the full name of each guest in your party. If seating is available, we'll confirm your
+reservation. If you have a confirmed reservation and a member of your party decides not to
+attend, please let us know so another guest can take their place.
+
+The suggested contribution is {{ page.contribution }} per person but any amount is welcome. 
+Contributions are collected at the door. We accept cash, personal checks, and credit cards.
+
+<p id="alt-shaded-box" markdown="1">
+
+IMPORTANT: As a precaution, we'd like everyone attending this concert to be fully vaccinated
+and symptom-free. Masks are optional at this time.
+
+</p>
+
+Seating capacity for this concert: {{ page.capacity }}
+
+{% include cmm/reservations.html %}
+
+{% endif %}

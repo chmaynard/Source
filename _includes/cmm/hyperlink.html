@@ -1,0 +1,17 @@
+{% comment %}
+
+   Creates a hyperlink to a local static file.
+   Static files inside collections are not currently supported.
+   If the MIME type is not passed in, application/pdf is assumed.
+
+{% endcomment %}
+
+{% assign hyperlink = nil %}
+{% assign file = site.static_files | where: "name", include.name %}
+
+{% if file.size > 0 %}
+{% assign type = include.type | default: "application/pdf" %}
+{% capture hyperlink %}
+<a href="{{ file[0].path }}" type="{{ type }}">{{ include.title }}</a>
+{% endcapture %}
+{% endif %}

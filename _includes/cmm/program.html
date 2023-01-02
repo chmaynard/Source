@@ -1,0 +1,16 @@
+{% assign concert = page.name | split: "." | first %}
+{% assign rows = site.data.programs | where: "concert", concert %}
+{% if rows.size == 0 %}
+The program will be announced soon.
+{% else %}
+{% include cmm/table-program.html rows=rows %}
+{% endif %}
+
+{% comment %}
+{% assign stem = page.path | split: "/" | last | split: "." | first %}
+{% capture name %}{{ stem }}.pdf{% endcapture %}
+{% include cmm/hyperlink.html name=name title="Full Program (PDF)" %}
+{% if hyperlink %}
+{{ hyperlink }}
+{% endif %}
+{% endcomment %}

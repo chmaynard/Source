@@ -1,0 +1,12 @@
+---
+layout: api
+title: Concerts in TSV format
+permalink: /api/concerts.tsv
+header: "concert	date	path"
+published: false
+---
+
+{{ page.header }}
+{% for concert in site.concerts -%}
+{{ forloop.index }}	{{ concert.date | date: "%F" }}	{{ concert.url }}
+{% endfor -%}

@@ -1,0 +1,39 @@
+{% assign concert_date = page.date | date: "%F" %}
+{% assign reservations = site.data.worksheet | where: "date", concert_date %}
+
+{% if reservations.size > 0 %}
+
+<progress id="progress" value="{{ reservations.size }}" max="{{ page.capacity }}"
+style="width:20.0em; margin-left:0em; background-size: auto; ">
+</progress>
+
+<br/>
+
+<style>
+
+/* https://justmarkup.com/articles/2020-09-22-styling-and-animation-details/
+ */
+
+summary {list-style: none}
+summary::-webkit-details-marker {display: none; }
+
+details summary::before { 
+  content:"◼︎"; 
+  color: black; 
+  /* you can style it however you want, use background-image for example */
+}
+
+</style>
+
+<details>
+<summary></summary>
+
+<br/>
+
+{% include cmm/table-reservations.html reservations=reservations %}
+
+Total: {{ reservations.size }}
+
+</details>
+
+{% endif %}

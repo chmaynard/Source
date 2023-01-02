@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article>
+
+<section>
+
+{% assign file = site.static_files | where: "name", page.banner %}
+{% assign path = file[0].path %}
+
+<header class="hero-image" style="background-image: url('{{ path }}');">
+   <div class="hero-text">
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <br/>
+      <br/>
+      <h3>{{ page.subtitle }}</h3>
+      {% endif %}
+   </div>
+</header>
+
+</section>
+
+<section class="post-content" style="padding: 0%" > {{ content }} </section>
+<section> {% include cmm/final.html %} </section>
+
+</article>

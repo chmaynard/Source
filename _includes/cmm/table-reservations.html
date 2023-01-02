@@ -1,0 +1,32 @@
+<div class="table-container" markdown="1" style="font-size: 1.0em;">
+
+<table id="styled-table">
+
+<thead>
+<tr>
+   <th>Name</th>
+   <th>Role</th>
+   <th>Email</th>
+   <th>Count</th>
+</tr>
+</thead>
+
+<tbody>
+
+<ul>
+
+{% for reservation in include.reservations %}
+
+<tr>
+   <td>{{ reservation.name }}</td>
+   <td>{{ reservation.role }}</td>
+   <td>{{ reservation.email }}</td>
+   <td>{{ reservation.count }}</td>
+</tr>
+
+{% endfor %}
+
+</ul>
+</tbody>
+</table>
+</div>
