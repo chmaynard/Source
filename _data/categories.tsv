@@ -1,14 +1,16 @@
 sequence	name
 101	Solo Piano
-102	Violin and Piano
-103	Piano Four-Hands
+102	Piano Four-Hands
+103	Violin and Piano
 104	Cello and Piano
 105	Piano Trio
 106	String Quartet
 107	Oboe and Piano
-108	Voice and Piano
-109	Violin and Cello
-110	Violin and Viola
-111	Solo Violin
-112	Solo Cello
-113	Solo Oboe
+108	Clarinet and Piano
+109	Voice and Piano
+110	Violin and Cello
+111	Violin and Viola
+112	Solo Violin
+113	Solo Cello
+114	Solo Oboe
+115	Solo Clarinet

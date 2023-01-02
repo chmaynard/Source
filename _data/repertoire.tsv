@@ -152,6 +152,14 @@ Solo Piano	Takemitsu1982a	Toru Takemitsu	Rain Tree Sketch		2018-06-15T19:30:00-0
 Solo Piano	Takemitsu1992a	Toru Takemitsu	Rain Tree Sketch II		2018-06-15T19:30:00-04:00	concerts/2018/goodpasture
 Solo Piano	Walker1945a	George Walker	Prelude (1945) and Caprice (1941)		2023-02-11T14:00:00-05:00	concerts/2023/bass
 Solo Piano	Yi2000a	Chen Yi	Duo Ye		2021-06-19T15:00:00-04:00	concerts/2021/qian
+Piano Four-Hands	Debussy1889a	Claude Debussy	Petite Suite		2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
+Piano Four-Hands	Debussy1914a	Claude Debussy	Six épigraphes antiques		2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
+Piano Four-Hands	Mozart1774a	Wolfgang Amadeus Mozart	Sonata for piano four-hands in B-flat major	K. 358	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
+Piano Four-Hands	Ravel1910a	Maurice Ravel	Ma mère l’Oye	M. 60	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
+Piano Four-Hands	Ravel1917b	Maurice Ravel	Le tombeau de Couperin (transcription by L. Garban)	M. 68	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
+Piano Four-Hands	Saint-Saëns1874a	Camille Saint-Saëns	Danse Macabre	Op. 40	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
+Piano Four-Hands	Schubert1828b	Franz Schubert	Fantasie in F minor	D. 940	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
+Piano Four-Hands	Schumann1848a	Robert Schumann	Six Impromptus “Bilder aus Osten”	Op. 66	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
 Violin and Piano	Adams1995a	John Adams	Road Movies		2019-05-11T19:30:00-04:00	concerts/2019/tekalli-duo
 Violin and Piano	Bach1720d	Johann Sebastian Bach	Violin Sonata in E major	BWV 1016	2022-08-20T16:00:00-04:00	concerts/2022/zyzak-gorini
 Violin and Piano	Barber1939a	Samuel Barber	Violin Concerto	Op. 14	2019-05-11T19:30:00-04:00	concerts/2019/tekalli-duo
@@ -211,14 +219,6 @@ Violin and Piano	Schumann1853b	Clara Schumann	Three Romances	Op. 22	2022-10-22T1
 Violin and Piano	Strauss1888a	Richard Strauss	Violin Sonata in E-flat major	Op. 18	2021-10-30T15:00:00-04:00	concerts/2021/szokolay-lu
 Violin and Piano	Stravinsky1934a	Igor Stravinsky	Divertimento from <i>Le baiser de la fée</i>		2022-10-22T15:00:00-04:00	concerts/2022/park-sasaki
 Violin and Piano	Stravinsky1934a	Igor Stravinsky	Divertimento from <i>Le baiser de la fée</i>		2019-02-09T19:30:00-05:00	concerts/2019/wang-xi
-Piano Four-Hands	Debussy1889a	Claude Debussy	Petite Suite		2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
-Piano Four-Hands	Debussy1914a	Claude Debussy	Six épigraphes antiques		2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
-Piano Four-Hands	Mozart1774a	Wolfgang Amadeus Mozart	Sonata for piano four-hands in B-flat major	K. 358	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
-Piano Four-Hands	Ravel1910a	Maurice Ravel	Ma mère l’Oye	M. 60	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
-Piano Four-Hands	Ravel1917b	Maurice Ravel	Le tombeau de Couperin (transcription by L. Garban)	M. 68	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
-Piano Four-Hands	Saint-Saëns1874a	Camille Saint-Saëns	Danse Macabre	Op. 40	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
-Piano Four-Hands	Schubert1828b	Franz Schubert	Fantasie in F minor	D. 940	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
-Piano Four-Hands	Schumann1848a	Robert Schumann	Six Impromptus “Bilder aus Osten”	Op. 66	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
 Cello and Piano	Bach1740b	Johann Sebastian Bach	Viola da Gamba Sonata No. 3 in G minor	BWV 1029	2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
 Cello and Piano	Beach1893a	Amy Beach	Romance (transcribed for cello by S. DeCaprio)	Op. 23	2022-05-14T15:00:00-04:00	concerts/2022/decaprio-park
 Cello and Piano	Beethoven1801d	Ludwig van Beethoven	7 Variations on “Bei Männern, welche Liebe fühlen” from <i>The Magic Flute</i>	WoO. 46	2023-03-25T15:00:00-04:00	concerts/2023/yang-bang
@@ -266,6 +266,8 @@ Oboe and Piano	Dutilleux1947a	Henri Dutilleux	Sonata for Oboe and Piano		2021-05
 Oboe and Piano	Morris2007a	Alyssa Morris	Four Personalities		2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
 Oboe and Piano	Musgrave2008a	Thea Musgrave	Night Windows		2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
 Oboe and Piano	Schumann1853a	Clara Schumann	Three Romances	Op. 22	2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
+Clarinet and Piano	Bauer1932a	Marion Bauer	Sonata For Clarinet And Piano		2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive
+Clarinet and Piano	Brahms1894a	Johannes Brahms	Clarinet Sonata No. 2 in E-flat major	Op. 120:2	2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive
 Voice and Piano	Barber1947a	Samuel Barber	“Knoxville: Summer of 1915”	Op. 24	2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
 Voice and Piano	Bonds1	Margaret Bonds	“He’s Got the Whole World in His Hand”		2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
 Voice and Piano	Brahms1874a	Johannes Brahms	Heimweh (Longing for home)	Op. 63:7–9	2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
@@ -299,3 +301,4 @@ Solo Cello	Dallapiccola1945a	Luigi Dallapiccola	Ciaccona (Intermezzo e Adagio)		
 Solo Cello	Dutilleux1976a	Henri Dutilleux	Trois Strophes sur le nom de Sacher		2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
 Solo Oboe	Silvestrini1997a	Gilles Silvestrini	Études: I. Hôtel des Roches (Monet 1870)		2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
 Solo Oboe	Telemann1733a	Georg Philipp Telemann	Fantasia in B-flat major	TWV 40:5	2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
+Solo Clarinet	Saariaho2012a	Kaija Saariaho	Duft	Op. 22	2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive
