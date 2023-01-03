@@ -19,18 +19,35 @@
 
 {% for row in include.rows %}
 
-  {% assign composition = site.data.compositions | find_exp:"item", "item.key == row.key" %}
+{% assign key = row.key %}
+
+{% assign composition = site.data.compositions | find_exp:"item", "item.key == row.key" %}
+
+{% if composition %} 
+{% assign key = item.key %}
+{% endif %}
 
 <tr>
+
 {% if composition.composer != composer %}
    <td>{{ composition.composer }}</td>
 {% assign composer = composition.composer %}
 {% else %}
    <td></td>
 {% endif %}
+
+{% case key %}
+  {% when "INT" %}
+   <td><i>Intermission</i></td>
+  {% when "TBA" %}
+   <td><i>Work to be announced</i></td>
+  {% else %}
    <td>{{ composition.title }}</td>
+{% endcase %}
+
    <td>{{ composition.catalog }}</td>
    <td>{{ composition.year }}</td>
+
 </tr>
 
 {% endfor %}
