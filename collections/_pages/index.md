@@ -26,9 +26,9 @@ We welcome reservation requests for these upcoming concerts.
 
 ## Our Venue
 
-{% include cmm/figure.html name="concert-venue.jpg" align="left" %}
-
 {% include cmm/venue.html %}
+
+{% include cmm/figure.html name="concert-venue.jpg" align="left" %}
 
 ## Join us!
 
