@@ -15,10 +15,11 @@
 <ul>
 
 {% for concert in include.concerts %}
+
 <tr style="height: 60px;">
 
    <td>
-   {{ concert.date | date: "%B %e" }}
+   <a href="{{ concert.url }}">{{ concert.date | date: "%B %e" }}</a>
    </td>
 
    <td>
@@ -26,11 +27,12 @@
    </td>
 
    <td>
-   <b><a href="{{ concert.url }}">{{ concert.title }}</a></b>
+   <b>{{ concert.title }}</b>
    <div style="font-size:12px; padding-top:4px;"> {{ concert.artists | join: " ∙ " }} </div>
    </td>
 
 </tr>
+
 {% endfor %}
 
 </ul>

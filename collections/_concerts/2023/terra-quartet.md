@@ -2,8 +2,7 @@
 date: 2023-12-16 19:00:00Z
 title: A Holiday Celebration with the Terra Quartet
 artists:
-   - Harriet Langley, violin
-   - Amelia Dietrich, violin
+   - Harriet Langley & Amelia Dietrich, violins
    - Ramón Carrero Martínez, viola
    - Audrey Chen, cello
 published: true
