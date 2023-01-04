@@ -30,56 +30,48 @@ To view a list of artists who have performed for us, visit our [artists page](ar
 NOTE: We are currently booking concerts for the 2024–2025 season.
 </p>
 
-<br/>
+### Frequently Asked Questions
 
-<h2>Frequently Asked Questions</h2>
-
-<br/>
-
-* TOC
-{:toc}
-
-### How long should I perform?
+#### How long should I perform?
 
 Please prepare a minimum of 60 minutes of music. Most of our concerts are divided into two
 segments with a 15-minute intermission. Encores are optional but much appreciated by our
 audience.
 
-### When do I submit my concert program?
+#### When do I submit my concert program?
 
 Three months ahead of your concert date, we'll ask for your proposed program. If we think
 the program needs to be revised, we'll explain why and suggest some possible changes. After
 we agree on the program, we'll send you a performance agreement to review and sign.
 
-### Where is the concert venue?
+#### Where is the concert venue?
 
 {% include cmm/venue.html %}
 
-### When should I arrive?
+#### When should I arrive?
 
 Please plan to arrive at least two hours before your performance is scheduled to begin. If
 you're traveling several hours to get here, please plan to arrive on the day before your
 concert. We're happy to provide lodging at the venue for up to two nights.
 
-### Will my concert be recorded?
+#### Will my concert be recorded?
 
 If you would like us to make an audio recording of your concert, please let us know in advance.
 We have a simple two-mic system that works best for soloists but can be used for ensembles as
 well. The quality is suitable for private use. All recordings belong to the artist.
 
-### Do you ever cancel a concert?
+#### Do you ever cancel a concert?
 
 If we don't get enough advance reservations to make your concert financially viable, we may
 decide to cancel your concert and ask you to re-schedule it. Cancellations are unusual,
 although the uncertainty surrounding the pandemic has increased their frequency.
 
-### Are comps available for my family and friends?
+#### Are complimentary tickets available for my family and friends?
 
-To keep things simple, we do not sell tickets or provide comps to artists. We ask all our
-patrons to make a financial contribution at the door. The suggested contribution is $50 per
-person but any amount is welcome.
+We do not sell tickets to our concerts. Instead, we ask all our guests to make a financial
+contribution at the door. The suggested contribution is $50 per person but any amount is
+welcome. Volunteers who help out at our concerts are not asked to make a contribution.
 
-### Where can I find publicity about my concert?
+#### Where can I find publicity about my concert?
 
-The most reliable source of concert information is the [Schedule](schedule) page on our
-website.
+The most reliable source of concert information is the [schedule](schedule) on our website.
