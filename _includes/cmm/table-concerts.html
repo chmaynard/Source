@@ -26,8 +26,13 @@
    </td>
 
    <td>
+{% if concert.title == "TBA" %}
+   <em>To be announced</em>
+{% else %}
    <b><a href="{{ concert.url }}">{{ concert.title }}</a></b>
    <div style="font-size:13px; padding-top:4px;"> {{ concert.artists | join: " ∙ " }} </div>
+{% endif %}
+
    </td>
 
 </tr>
