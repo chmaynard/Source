@@ -22,7 +22,7 @@ We welcome reservation requests for these upcoming concerts.
 
 {% include cmm/table-concerts.html concerts=upcoming title=true %}
 
-[Complete Schedule](schedule.html)
+[All Upcoming Concerts](concerts/index.html)
 
 ## Our Venue
 

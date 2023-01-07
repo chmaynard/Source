@@ -1,5 +1,5 @@
 ---
-title: History
+title: Archive
 subtitle: Complete history of past concerts
 hide: false
 order: 2
