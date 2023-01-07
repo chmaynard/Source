@@ -7,6 +7,17 @@ artists:
 capacity: 20
 redirect_from:
    - concerts/20230304_spiegelberg-simsive.html
+
+# -Philippe Hersant, In The Dark (11’)
+# -Hannah Lash, Liebesbrief an Schumann (solo piano) (4’)
+# -Johannes Brahms, Sonata in E-flat Major (22’)
+#  
+# Intermission
+#  
+# -Marion Bauer, Sonata (16’)
+# -Robert Schumann, Widmung (arr. for piano by Franz Liszt) (4’)
+# -Gershwin, Three Preludes, arr. for cl and pno (8’)
+
 ---
 
 Join us on {{ page.date | date: "%A, %B %e, %Y at %-I:%M %P" }} to enjoy a performance of
