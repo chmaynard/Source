@@ -1,8 +1,6 @@
 ---
 title: Concerts
 subtitle: Complete schedule of upcoming concerts
-hide: false
-order: 1
 redirect_from:
    - concerts.html
 ---

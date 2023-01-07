@@ -2,7 +2,7 @@
 title: About  
 subtitle: About Core Memory Music  
 hide: false
-order: 7
+order: 1
 ---
 
 {% include cmm/figure.html name="craig.png" align="center" %}
