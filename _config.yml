@@ -83,7 +83,7 @@ collections:
    concerts:
       output: true
       sort_by: date
-      permalink: /:collection/:path:output_ext
+      permalink: /:collection/:year/:name:output_ext
    media:
       output: true
       permalink: /:collection/:path:output_ext

@@ -1,9 +1,13 @@
 ---
-title: Concerts
+title: Schedule
 subtitle: Complete schedule of upcoming concerts
-redirect_from:
-   - concerts.html
+hide: true
 ---
+
+<br>
+
+* TOC
+{:toc}
 
 <br/>
 
