@@ -1,7 +1,7 @@
 --- 
 title: News  
 subtitle: Late-breaking news of interest
-hide: false
+published: false
 order: 6
 ---
 
