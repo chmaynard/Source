@@ -27,7 +27,7 @@ SELECT
    composition.composer, 
    composition.title,
    composition.catalog,
-   concert.date,
+   concert.iso_date,
    concert.path
 FROM 
    category,

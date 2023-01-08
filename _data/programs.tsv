@@ -179,6 +179,15 @@ merz-trio	02	INT
 merz-trio	03	Boulanger1914a	
 merz-trio	04	Shostakovich1923a	
 merz-trio	05	Ravel1920b	
+orsen-colombat	01	Ritter1886a	
+orsen-colombat	02	Liszt1881a	
+orsen-colombat	03	Berlioz1841a	
+orsen-colombat	04a	Nietzsche1862a	
+orsen-colombat	04b	Nietzsche1864a	
+orsen-colombat	05	Wagner1867a	
+orsen-colombat	06	INT	
+orsen-colombat	07	Brahms1895a	
+orsen-colombat	08	Wagner1858a	
 orsen-garbot	01	Mozart1783b	
 orsen-garbot	02	Sibelius1892a	
 orsen-garbot	03	Glière1909a	
@@ -244,7 +253,7 @@ simsive	03	Shostakovich1943a
 simsive	04	Scriabin1907a	
 spiegelberg-simsive	01	Hersant2006a	
 spiegelberg-simsive	02	Lash2014a	
-spiegelberg-simsive	03	Brahms1894a	
+spiegelberg-simsive	03	Brahms1894b	
 spiegelberg-simsive	04	INT	
 spiegelberg-simsive	05	Bauer1932a	
 spiegelberg-simsive	06	Schumann∙Liszt1848a	
