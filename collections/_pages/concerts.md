@@ -1,7 +1,8 @@
 ---
 title: Schedule
 subtitle: Complete schedule of upcoming concerts
-hide: true
+hide: false
+order: 2
 ---
 
 <br>

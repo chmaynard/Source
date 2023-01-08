@@ -14,11 +14,9 @@
 .mode tabs
 
 .import categories.tsv category
-.import concerts.tsv concert
-.import patrons.tsv patron
-.import programs.tsv program
-.import reservations.tsv reservation
 .import compositions.tsv composition
+.import concerts.tsv concert
+.import programs.tsv program
 
 CREATE TABLE repertoire AS
 SELECT 
@@ -31,9 +29,9 @@ SELECT
    concert.path
 FROM 
    category,
+   composition,
    concert,
-   program,
-   composition
+   program
 WHERE 
    concert.concert = program.concert
    AND program.key = composition.key

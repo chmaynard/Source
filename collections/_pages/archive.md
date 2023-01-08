@@ -2,7 +2,7 @@
 title: Archive
 subtitle: Artists, Concerts, and Repertoire
 hide: true
-order: 2
+order: 3
 ---
 
 [All Artists](artists)

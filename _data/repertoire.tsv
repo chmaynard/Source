@@ -1,0 +1,300 @@
+category	key	composer	title	catalog	iso_date	path
+Solo Piano	Bach1712a	Johann Sebastian Bach	Toccata in F-sharp minor	BWV 910	2017-09-09T19:30:00-04:00	concerts/2017/krasner
+Solo Piano	Bach1720c	Johann Sebastian Bach	Prelude from Cello Suite No. 4 (arr. A. Siloti)	BWV 1010	2021-05-15T15:00:00-04:00	concerts/2021/gabrielian
+Solo Piano	Bach1720f	Johann Sebastian Bach	<i>Ciaccona</i> (transcription by F. Busoni)	BWV 1004:5	2021-05-01T15:00:00-04:00	concerts/2021/bartosik
+Solo Piano	Bach1725a	Johann Sebastian Bach	French Suite No. 5	BWV 816	2019-04-20T19:30:00-04:00	concerts/2019/poon
+Solo Piano	Bach1731a	Johann Sebastian Bach	Partita No. 1 in B-flat major	BWV 825	2018-01-13T19:30:00-05:00	concerts/2018/yao
+Solo Piano	Bach1731a	Johann Sebastian Bach	Partita No. 1 in B-flat major	BWV 825	2021-11-06T15:00:00-04:00	concerts/2021/yao2
+Solo Piano	Bach1735a	Johann Sebastian Bach	Italian Concerto	BWV 971	2018-05-12T19:30:00-04:00	concerts/2018/giesbrecht
+Solo Piano	Bach1735b	Johann Sebastian Bach	Overture in the French style	BWV 831	2019-01-12T19:30:00-05:00	concerts/2019/huang
+Solo Piano	Bach1740a	Johann Sebastian Bach	Prelude and Fugue in F-sharp minor	BWV 883	2017-11-11T19:30:00-05:00	concerts/2017/jeong
+Solo Piano	Bach1740c	Johann Sebastian Bach	Prelude and Fugue in F major (WTC II)	BWV 880	2022-02-12T14:00:00-05:00	concerts/2022/ozel
+Solo Piano	Bach1787a	Carl Philipp Emanuel Bach	Fantasia in F-sharp minor	H. 300	2018-06-15T19:30:00-04:00	concerts/2018/goodpasture
+Solo Piano	Barber1977a	Samuel Barber	Ballade	Op. 46	2018-06-15T19:30:00-04:00	concerts/2018/goodpasture
+Solo Piano	Bartók1926a	Bela Bartók	Piano Sonata	Sz. 80	2018-01-13T19:30:00-05:00	concerts/2018/yao
+Solo Piano	Bartók1926b	Bela Bartók	Out of Doors	Sz. 81	2022-12-03T14:00:00-05:00	concerts/2022/ozel2
+Solo Piano	Beethoven1796a	Ludwig van Beethoven	Piano Sonata No. 4 in E-flat major	Op. 7	2017-11-11T19:30:00-05:00	concerts/2017/jeong
+Solo Piano	Beethoven1798c	Ludwig van Beethoven	Piano Sonata No. 6 in F major	Op. 10:2	2022-08-13T16:00:00-04:00	concerts/2022/tang2
+Solo Piano	Beethoven1801a	Ludwig van Beethoven	Piano Sonata No. 15 in D major (“Pastorale”)	Op. 28	2018-11-10T19:30:00-05:00	concerts/2018/strata
+Solo Piano	Beethoven1802a	Ludwig van Beethoven	Piano Sonata No. 18 in E-flat major	Op. 31:3	2021-04-03T15:00:00-04:00	concerts/2021/mak
+Solo Piano	Beethoven1803a	Ludwig van Beethoven	Six Variations on an original theme	Op. 34	2020-03-14T19:30:00-04:00	concerts/2020/tetzloff2
+Solo Piano	Beethoven1809a	Ludwig van Beethoven	Piano Sonata No. 24 in F-sharp major	Op. 78	2020-01-04T19:30:00-05:00	concerts/2020/lu
+Solo Piano	Beethoven1816a	Ludwig van Beethoven	Piano Sonata No. 28 in A major	Op. 101	2023-02-11T14:00:00-05:00	concerts/2023/bass
+Solo Piano	Beethoven1816a	Ludwig van Beethoven	Piano Sonata No. 28 in A major	Op. 101	2019-11-09T19:30:00-05:00	concerts/2019/tang
+Solo Piano	Beethoven1820a	Ludwig van Beethoven	Piano Sonata No. 30 in E major	Op. 109	2022-06-26T15:00:00-04:00	concerts/2022/gagliano
+Solo Piano	Beethoven1820a	Ludwig van Beethoven	Piano Sonata No. 30 in E major	Op. 109	2021-11-06T15:00:00-04:00	concerts/2021/yao2
+Solo Piano	Beethoven1821a	Ludwig van Beethoven	Piano Sonata No. 31 in A-flat major	Op. 110	2021-06-19T15:00:00-04:00	concerts/2021/qian
+Solo Piano	Beethoven1822a	Ludwig van Beethoven	Piano Sonata No. 32 in C minor	Op. 111	2022-12-03T14:00:00-05:00	concerts/2022/ozel2
+Solo Piano	Beethoven1823a	Ludwig van Beethoven	Variations on a waltz by Anton Diabelli	Op. 120	2019-01-12T19:30:00-05:00	concerts/2019/huang
+Solo Piano	Brahms1853a	Johannes Brahms	Piano Sonata No. 3 in F minor	Op. 5	2018-06-15T19:30:00-04:00	concerts/2018/goodpasture
+Solo Piano	Brahms1861a	Johannes Brahms	Variations and Fugue on a Theme by Handel	Op. 24	2017-09-09T19:30:00-04:00	concerts/2017/krasner
+Solo Piano	Brahms1861a	Johannes Brahms	Variations and Fugue on a Theme by Handel	Op. 24	2021-04-17T15:00:00-04:00	concerts/2021/li
+Solo Piano	Brahms1863a	Johannes Brahms	Variations on a Theme of Paganini	Op. 35	2021-11-06T15:00:00-04:00	concerts/2021/yao2
+Solo Piano	Brahms1892a	Johannes Brahms	Fantasies	Op. 116	2020-03-14T19:30:00-04:00	concerts/2020/tetzloff2
+Solo Piano	Brahms1893a	Johannes Brahms	Six Pieces for Piano	Op. 118	2018-12-01T19:30:00-05:00	concerts/2018/tetzloff
+Solo Piano	Chopin1827a	Frédéric Chopin	Nocturne	Op. 72:1	2019-04-20T19:30:00-04:00	concerts/2019/poon
+Solo Piano	Chopin1831a	Frédéric Chopin	Waltz in A minor	Op. 34:2	2021-10-16T15:00:00-04:00	concerts/2021/bartosik2
+Solo Piano	Chopin1834a	Frédéric Chopin	Andante spianato & Grande polonaise brillante	Op. 22	2021-10-16T15:00:00-04:00	concerts/2021/bartosik2
+Solo Piano	Chopin1835a	Frédéric Chopin	Ballade No. 1 in G minor	Op. 23	2023-06-03T15:00:00-04:00	concerts/2023/lio
+Solo Piano	Chopin1836a	Frédéric Chopin	Nocturne in C-sharp minor	Op. 27:1	2021-05-15T15:00:00-04:00	concerts/2021/gabrielian
+Solo Piano	Chopin1836b	Frédéric Chopin	Nocturne in D-flat major	Op. 27:2	2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
+Solo Piano	Chopin1837a	Frédéric Chopin	Scherzo in B-flat minor	Op. 32	2017-11-11T19:30:00-05:00	concerts/2017/jeong
+Solo Piano	Chopin1839a	Frédéric Chopin	Scherzo in C-sharp minor	Op. 39	2021-05-15T15:00:00-04:00	concerts/2021/gabrielian
+Solo Piano	Chopin1839a	Frédéric Chopin	Scherzo in C-sharp minor	Op. 39	2017-11-11T19:30:00-05:00	concerts/2017/jeong
+Solo Piano	Chopin1839a	Frédéric Chopin	Scherzo in C-sharp minor	Op. 39	2018-11-10T19:30:00-05:00	concerts/2018/strata
+Solo Piano	Chopin1839b	Frédéric Chopin	Preludes (1-12)	Op. 28	2018-05-12T19:30:00-04:00	concerts/2018/giesbrecht
+Solo Piano	Chopin1839d	Frédéric Chopin	Ballade No. 2 in F major	Op. 38	2023-02-11T14:00:00-05:00	concerts/2023/bass
+Solo Piano	Chopin1841a	Frédéric Chopin	Nocturne	Op. 48:1	2019-04-20T19:30:00-04:00	concerts/2019/poon
+Solo Piano	Chopin1841b	Frédéric Chopin	Fantaisie in F minor	Op. 49	2019-11-09T19:30:00-05:00	concerts/2019/tang
+Solo Piano	Chopin1842a	Frédéric Chopin	Ballade No. 4 in F minor	Op. 52	2023-06-03T15:00:00-04:00	concerts/2023/lio
+Solo Piano	Chopin1842a	Frédéric Chopin	Ballade No. 4 in F minor	Op. 52	2019-04-20T19:30:00-04:00	concerts/2019/poon
+Solo Piano	Chopin1844a	Frédéric Chopin	Piano Sonata No. 3	Op. 58	2018-03-10T19:30:00-05:00	concerts/2018/wu
+Solo Piano	Chopin1844b	Frédéric Chopin	Mazurkas	Op. 56	2022-02-12T14:00:00-05:00	concerts/2022/ozel
+Solo Piano	Chopin1846a	Frédéric Chopin	Barcarolle in F-sharp major	Op. 60	2022-06-26T15:00:00-04:00	concerts/2022/gagliano
+Solo Piano	Chopin1846a	Frédéric Chopin	Barcarolle in F-sharp major	Op. 60	2019-04-20T19:30:00-04:00	concerts/2019/poon
+Solo Piano	Chopin1846b	Frédéric Chopin	Polonaise-Fantaisie in A-flat major	Op. 61	2021-05-01T15:00:00-04:00	concerts/2021/bartosik
+Solo Piano	Chopin1846b	Frédéric Chopin	Polonaise-Fantaisie in A-flat major	Op. 61	2022-08-13T16:00:00-04:00	concerts/2022/tang2
+Solo Piano	Copeland1921a	Aaron Copeland	Three Moods		2021-06-19T15:00:00-04:00	concerts/2021/qian
+Solo Piano	Debussy1892a	Claude Debussy	Nocturne		2018-06-15T19:30:00-04:00	concerts/2018/goodpasture
+Solo Piano	Debussy1903a	Claude Debussy	Estampes		2021-05-01T15:00:00-04:00	concerts/2021/bartosik
+Solo Piano	Debussy1904a	Claude Debussy	Masques	L. 105	2021-10-16T15:00:00-04:00	concerts/2021/bartosik2
+Solo Piano	Debussy1904b	Claude Debussy	L’isle joyeuse	L. 106	2023-02-11T14:00:00-05:00	concerts/2023/bass
+Solo Piano	Debussy1907a	Claude Debussy	Images: Book 1		2021-04-17T15:00:00-04:00	concerts/2021/li
+Solo Piano	Debussy1907a	Claude Debussy	Images: Book 1		2018-03-10T19:30:00-05:00	concerts/2018/wu
+Solo Piano	Debussy1907b	Claude Debussy	Images: Book 2		2018-03-10T19:30:00-05:00	concerts/2018/wu
+Solo Piano	Debussy1907b	Claude Debussy	Images: Book 2		2021-11-06T15:00:00-04:00	concerts/2021/yao2
+Solo Piano	Debussy1915b	Claude Debussy	Étude XI. “Pour les arpèges composés”	L. 136	2021-10-16T15:00:00-04:00	concerts/2021/bartosik2
+Solo Piano	Fauré1894a	Gabriel Fauré	Nocturne no. 6 in D flat major	Op. 63	2018-12-01T19:30:00-05:00	concerts/2018/tetzloff
+Solo Piano	Franck1884a	César Franck	“Prélude, Chorale, et Fugue”	FWV 21	2018-02-10T19:30:00-05:00	concerts/2018/simsive
+Solo Piano	Franck1884a	César Franck	“Prélude, Chorale, et Fugue”	FWV 21	2018-12-01T19:30:00-05:00	concerts/2018/tetzloff
+Solo Piano	Frazin2022a	Howard Frazin	Overture to the Moon and Stars		2023-02-11T14:00:00-05:00	concerts/2023/bass
+Solo Piano	George2014a	Whitney George	Selections from The Extinction Series		2021-05-01T15:00:00-04:00	concerts/2021/bartosik
+Solo Piano	Ginasetera1952a	Alberto Ginastera	Piano Sonata No. 1	Op. 22	2021-05-01T15:00:00-04:00	concerts/2021/bartosik
+Solo Piano	Granados1911a	Enrique Granados	“Quejas o la maja y el ruisenor” from Goyescas		2017-09-09T19:30:00-04:00	concerts/2017/krasner
+Solo Piano	Haydn1768a	Franz Joseph Haydn	Keyboard Sonata in A-flat major	Hob. XVI:46	2022-01-22T14:00:00-05:00	concerts/2022/mak2
+Solo Piano	Haydn1790a	Franz Joseph Haydn	Keyboard Sonata in E-flat major	Hob. XVI:49	2021-05-15T15:00:00-04:00	concerts/2021/gabrielian
+Solo Piano	Haydn1794a	Franz Joseph Haydn	Keyboard Sonata in E-flat major	Hob. XVI:52	2019-04-20T19:30:00-04:00	concerts/2019/poon
+Solo Piano	Ives1915a	Charles Ives	Piano Sonata No. 2: III. “The Alcotts”		2021-05-01T15:00:00-04:00	concerts/2021/bartosik
+Solo Piano	Janáček1906a	Leoš Janáček	Piano Sonata 1.X.1905 “From the Street”		2022-10-08T15:00:00-04:00	concerts/2022/wang
+Solo Piano	Janáček1908a	Leoš Janáček	On an Overgrown Path: Book I (selections)		2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
+Solo Piano	Janáček1912a	Leoš Janáček	In the Mists		2020-03-14T19:30:00-04:00	concerts/2020/tetzloff2
+Solo Piano	Lash2014a	Hannah Lash	Liebesbrief an Schumann		2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive
+Solo Piano	Liszt1849a	Franz Liszt	Sonetto No. 123 del Petrarca	S. 161:6	2023-02-11T14:00:00-05:00	concerts/2023/bass
+Solo Piano	Liszt1849b	Franz Liszt	Fantasia quasi Sonata “Après une lecture du Dante”	S. 161:7	2023-02-11T14:00:00-05:00	concerts/2023/bass
+Solo Piano	Liszt1849b	Franz Liszt	Fantasia quasi Sonata “Après une lecture du Dante”	S. 161:7	2018-11-10T19:30:00-05:00	concerts/2018/strata
+Solo Piano	Liszt1859a	Franz Liszt	Paraphrase de concert sur Rigoletto	S. 434	2021-04-17T15:00:00-04:00	concerts/2021/li
+Solo Piano	Liszt1867a	Franz Liszt	Isoldes Liebestod (Schlußszene aus Tristan und Isolde)		2020-03-14T19:30:00-04:00	concerts/2020/tetzloff2
+Solo Piano	Liszt1877a	Franz Liszt	Les Jeux d’eaux à la Villa d’Este		2022-12-03T14:00:00-05:00	concerts/2022/ozel2
+Solo Piano	Loeb2019a	David Loeb	The Invisible River		2022-08-27T16:00:00-04:00	concerts/2022/meinrenken-weaver
+Solo Piano	Mozart1778c	Wolfgang Amadeus Mozart	Piano Sonata No. 8 in A minor	K. 310	2022-06-26T15:00:00-04:00	concerts/2022/gagliano
+Solo Piano	Mozart1783d	Wolfgang Amadeus Mozart	Piano Sonata No. 12 in F major	K. 332	2020-10-03T15:00:00-04:00	concerts/2020/gusev
+Solo Piano	Mozart1784a	Wolfgang Amadeus Mozart	Piano Sonata No. 13 in B-flat major	K. 333	2021-04-17T15:00:00-04:00	concerts/2021/li
+Solo Piano	Mozart1788a	Wolfgang Amadeus Mozart	Piano Sonata No. 15 in F major	K. 533	2018-02-10T19:30:00-05:00	concerts/2018/simsive
+Solo Piano	Mussorgsky1874a	Modest Mussorgsky	Pictures At An Exhibition		2020-10-03T15:00:00-04:00	concerts/2020/gusev
+Solo Piano	Prokofiev1918a	Sergei Prokofiev	Tales of an Old Grandmother	Op. 31	2020-01-25T19:30:00-05:00	concerts/2020/orth
+Solo Piano	Prokofiev1940a	Sergei Prokofiev	Piano Sonata No. 6 in A major	Op. 82	2020-01-25T19:30:00-05:00	concerts/2020/orth
+Solo Piano	Prokofiev1940a	Sergei Prokofiev	Piano Sonata No. 6 in A major	Op. 82	2018-11-10T19:30:00-05:00	concerts/2018/strata
+Solo Piano	Prokofiev1942a	Sergei Prokofiev	Piano Sonata No. 7 in B-flat major	Op. 83	2020-01-04T19:30:00-05:00	concerts/2020/lu
+Solo Piano	Prokofiev1944a	Sergei Prokofiev	Piano Sonata No. 8 in B-Flat Major	Op. 84	2021-04-03T15:00:00-04:00	concerts/2021/mak
+Solo Piano	Rachmaninoff1903a	Sergei Rachmaninoff	Ten Preludes	Op. 23	2020-10-03T15:00:00-04:00	concerts/2020/gusev
+Solo Piano	Rachmaninoff1903b	Sergei Rachmaninoff	Ten Preludes (selections)	Op. 23	2021-10-09T15:00:00-04:00	concerts/2021/gusev2
+Solo Piano	Rachmaninoff1910b	Sergei Rachmaninoff	Thirteen Preludes (selections)	Op. 32	2021-10-09T15:00:00-04:00	concerts/2021/gusev2
+Solo Piano	Rachmaninoff1911a	Sergei Rachmaninoff	Études-Tableaux	Op. 33	2021-10-09T15:00:00-04:00	concerts/2021/gusev2
+Solo Piano	Rachmaninoff1913a	Sergei Rachmaninoff	Piano Sonata No. 2	Op. 36	2018-05-12T19:30:00-04:00	concerts/2018/giesbrecht
+Solo Piano	Rachmaninoff1916a	Sergei Rachmaninoff	Études-Tableaux	Op. 39	2020-10-03T15:00:00-04:00	concerts/2020/gusev
+Solo Piano	Rachmaninoff1916b	Sergei Rachmaninoff	Études-Tableaux (selections)	Op. 39	2021-10-09T15:00:00-04:00	concerts/2021/gusev2
+Solo Piano	Rachmaninoff1916b	Sergei Rachmaninoff	Études-Tableaux (selections)	Op. 39	2022-10-08T15:00:00-04:00	concerts/2022/wang
+Solo Piano	Rachmaninoff1931a	Sergei Rachmaninoff	Variations on a Theme of Corelli	Op. 42	2021-04-03T15:00:00-04:00	concerts/2021/mak
+Solo Piano	Rachmaninoff1931a	Sergei Rachmaninoff	Variations on a Theme of Corelli	Op. 42	2022-02-12T14:00:00-05:00	concerts/2022/ozel
+Solo Piano	Rameau1727a	Jean-Philippe Rameau	Suite in G major for harpsichord	RCT 6	2020-03-14T19:30:00-04:00	concerts/2020/tetzloff2
+Solo Piano	Ravel1901a	Maurice Ravel	Jeux d’eau	M. 30	2017-09-09T19:30:00-04:00	concerts/2017/krasner
+Solo Piano	Ravel1901a	Maurice Ravel	Jeux d’eau	M. 30	2020-01-04T19:30:00-05:00	concerts/2020/lu
+Solo Piano	Ravel1905a	Maurice Ravel	Miroirs	M. 43	2017-09-09T19:30:00-04:00	concerts/2017/krasner
+Solo Piano	Ravel1905b	Maurice Ravel	Sonatine	M. 40	2021-10-16T15:00:00-04:00	concerts/2021/bartosik2
+Solo Piano	Ravel1908a	Maurice Ravel	Gaspard de la nuit	M. 55	2022-01-22T14:00:00-05:00	concerts/2022/mak2
+Solo Piano	Ravel1911a	Maurice Ravel	Valses Nobles et Sentimentales	M. 61	2021-06-19T15:00:00-04:00	concerts/2021/qian
+Solo Piano	Ravel1917a	Maurice Ravel	Le tombeau de Couperin	M. 68	2022-10-08T15:00:00-04:00	concerts/2022/wang
+Solo Piano	Ravel1920a	Maurice Ravel	La Valse	M. 72b	2017-11-11T19:30:00-05:00	concerts/2017/jeong
+Solo Piano	Scarlatti1750a	Domenico Scarlatti	Keyboard Sonata in G major	K. 79	2021-04-03T15:00:00-04:00	concerts/2021/mak
+Solo Piano	Scarlatti1750b	Domenico Scarlatti	Keyboard Sonata in D major	K. 118	2021-04-03T15:00:00-04:00	concerts/2021/mak
+Solo Piano	Scarlatti1750c	Domenico Scarlatti	Keyboard Sonata in F major	K. 445	2022-08-13T16:00:00-04:00	concerts/2022/tang2
+Solo Piano	Schoenberg1913a	Arnold Schoenberg	Sechs kleine Klavierstücke	Op. 19	2020-01-25T19:30:00-05:00	concerts/2020/orth
+Solo Piano	Schubert1823a	Franz Schubert	Six Moments Musicaux	D. 780	2022-12-03T14:00:00-05:00	concerts/2022/ozel2
+Solo Piano	Schubert1827b	Franz Schubert	Four Impromptus	D. 899	2022-08-13T16:00:00-04:00	concerts/2022/tang2
+Solo Piano	Schubert1828c	Franz Schubert	Drei Klavierstücke	D. 946	2021-10-16T15:00:00-04:00	concerts/2021/bartosik2
+Solo Piano	Schubert1828g	Franz Schubert	Piano Sonata in C minor	D. 958	2020-01-25T19:30:00-05:00	concerts/2020/orth
+Solo Piano	Schubert1828h	Franz Schubert	Piano Sonata in A major	D. 959	2023-06-03T15:00:00-04:00	concerts/2023/lio
+Solo Piano	Schumann1831a	Robert Schumann	Papillons	Op. 2	2021-05-15T15:00:00-04:00	concerts/2021/gabrielian
+Solo Piano	Schumann1837a	Robert Schumann	Davidsbündlertänze	Op. 6	2019-11-09T19:30:00-05:00	concerts/2019/tang
+Solo Piano	Schumann1837a	Robert Schumann	Davidsbündlertänze	Op. 6	2018-01-13T19:30:00-05:00	concerts/2018/yao
+Solo Piano	Schumann1838a	Robert Schumann	Kreisleriana	Op. 16	2022-06-04T15:00:00-04:00	concerts/2022/amper
+Solo Piano	Schumann1838a	Robert Schumann	Kreisleriana	Op. 16	2020-01-04T19:30:00-05:00	concerts/2020/lu
+Solo Piano	Schumann1838b	Robert Schumann	Kinderszenen “Scenes from Childhood”	Op. 15	2022-03-19T15:00:00-04:00	concerts/2022/kanagawa-simsive
+Solo Piano	Schumann1839a	Robert Schumann	Carnival Scenes from Vienna	Op. 26	2018-05-12T19:30:00-04:00	concerts/2018/giesbrecht
+Solo Piano	Schumann1839b	Robert Schumann	Humoreske	Op. 20	2022-01-22T14:00:00-05:00	concerts/2022/mak2
+Solo Piano	Schumann1839c	Robert Schumann	Arabeske in C major	Op. 18	2023-06-03T15:00:00-04:00	concerts/2023/lio
+Solo Piano	Schumann∙Liszt1848a	Schumann∙Liszt	“Liebeslied (Widmung)” (arr. F. Liszt)	Op. 25:1/S. 566	2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive
+Solo Piano	Scriabin1894a	Alexander Scriabin	Prelude and Nocturne for the Left Hand	Op. 9	2023-06-03T15:00:00-04:00	concerts/2023/lio
+Solo Piano	Scriabin1896b	Alexander Scriabin	24 Preludes (selections)	Op. 11:1–4	2022-02-12T14:00:00-05:00	concerts/2022/ozel
+Solo Piano	Scriabin1898a	Alexander Scriabin	Sonata-Fantasy in G-sharp minor	Op. 19	2021-06-19T15:00:00-04:00	concerts/2021/qian
+Solo Piano	Scriabin1903a	Alexander Scriabin	Poèmes	Op. 32	2022-02-12T14:00:00-05:00	concerts/2022/ozel
+Solo Piano	Scriabin1903b	Alexander Scriabin	Valse	Op. 38	2022-10-08T15:00:00-04:00	concerts/2022/wang
+Solo Piano	Scriabin1907a	Alexander Scriabin	Piano Sonata No. 5	Op. 53	2022-02-12T14:00:00-05:00	concerts/2022/ozel
+Solo Piano	Scriabin1907a	Alexander Scriabin	Piano Sonata No. 5	Op. 53	2018-02-10T19:30:00-05:00	concerts/2018/simsive
+Solo Piano	Scriabin1907a	Alexander Scriabin	Piano Sonata No. 5	Op. 53	2018-12-01T19:30:00-05:00	concerts/2018/tetzloff
+Solo Piano	Shchedrin1961a	Rodion Shchedrin	À la Albéniz		2021-10-16T15:00:00-04:00	concerts/2021/bartosik2
+Solo Piano	Shostakovich1943a	Dmitri Shostakovich	Piano Sonata No. 2 in B minor	Op. 61	2018-02-10T19:30:00-05:00	concerts/2018/simsive
+Solo Piano	Szymanowski1903a	Karol Szymanowski	Variations in B-flat minor	Op. 3	2022-06-26T15:00:00-04:00	concerts/2022/gagliano
+Solo Piano	Takemitsu1982a	Toru Takemitsu	Rain Tree Sketch		2018-06-15T19:30:00-04:00	concerts/2018/goodpasture
+Solo Piano	Takemitsu1992a	Toru Takemitsu	Rain Tree Sketch II		2018-06-15T19:30:00-04:00	concerts/2018/goodpasture
+Solo Piano	Walker1945a	George Walker	Prelude (1945) and Caprice (1941)		2023-02-11T14:00:00-05:00	concerts/2023/bass
+Solo Piano	Yi2000a	Chen Yi	Duo Ye		2021-06-19T15:00:00-04:00	concerts/2021/qian
+Piano Four-Hands	Debussy1889a	Claude Debussy	Petite Suite		2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
+Piano Four-Hands	Debussy1914a	Claude Debussy	Six épigraphes antiques		2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
+Piano Four-Hands	Mozart1774a	Wolfgang Amadeus Mozart	Sonata for piano four-hands in B-flat major	K. 358	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
+Piano Four-Hands	Ravel1910a	Maurice Ravel	Ma mère l’Oye	M. 60	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
+Piano Four-Hands	Ravel1917b	Maurice Ravel	Le tombeau de Couperin (transcription by L. Garban)	M. 68	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
+Piano Four-Hands	Saint-Saëns1874a	Camille Saint-Saëns	Danse Macabre	Op. 40	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
+Piano Four-Hands	Schubert1828b	Franz Schubert	Fantasie in F minor	D. 940	2019-03-02T19:30:00-05:00	concerts/2019/giesbrecht-korting
+Piano Four-Hands	Schumann1848a	Robert Schumann	Six Impromptus “Bilder aus Osten”	Op. 66	2018-09-08T19:30:00-04:00	concerts/2018/yao-chaplikov
+Violin and Piano	Adams1995a	John Adams	Road Movies		2019-05-11T19:30:00-04:00	concerts/2019/tekalli-duo
+Violin and Piano	Bach1720d	Johann Sebastian Bach	Violin Sonata in E major	BWV 1016	2022-08-20T16:00:00-04:00	concerts/2022/zyzak-gorini
+Violin and Piano	Barber1939a	Samuel Barber	Violin Concerto	Op. 14	2019-05-11T19:30:00-04:00	concerts/2019/tekalli-duo
+Violin and Piano	Beethoven1798a	Ludwig van Beethoven	Violin Sonata No. 2 in A major	Op. 12:2	2020-02-15T19:30:00-05:00	concerts/2020/szokolay-simsive
+Violin and Piano	Beethoven1798b	Ludwig van Beethoven	Violin Sonata No. 3 in E-flat major	Op. 12:3	2021-11-13T14:00:00-05:00	concerts/2021/leunis-lu
+Violin and Piano	Beethoven1801b	Ludwig van Beethoven	Violin Sonata No. 4 in A minor	Op. 23	2021-09-25T15:00:00-04:00	concerts/2021/meinrenken-kim
+Violin and Piano	Beethoven1801c	Ludwig van Beethoven	Violin Sonata No. 5 in F major (“Spring”)	Op. 24	2019-10-12T19:30:00-04:00	concerts/2019/horowitz-wu
+Violin and Piano	Beethoven1802b	Ludwig van Beethoven	Violin Sonata No. 8 in G major	Op. 30:3	2022-08-27T16:00:00-04:00	concerts/2022/meinrenken-weaver
+Violin and Piano	Beethoven1803b	Ludwig van Beethoven	Violin Sonata No. 9 in A major (“Kreutzer”)	Op. 47	2022-11-19T14:00:00-05:00	concerts/2022/szokolay-chen
+Violin and Piano	Beethoven1812a	Ludwig van Beethoven	Violin Sonata No. 10 in G major	Op. 96	2021-10-30T15:00:00-04:00	concerts/2021/szokolay-lu
+Violin and Piano	Beethoven1812a	Ludwig van Beethoven	Violin Sonata No. 10 in G major	Op. 96	2019-02-09T19:30:00-05:00	concerts/2019/wang-xi
+Violin and Piano	Brahms1879a	Johannes Brahms	Violin Sonata No. 1 in G major	Op. 78	2020-02-15T19:30:00-05:00	concerts/2020/szokolay-simsive
+Violin and Piano	Brahms1886a	Johannes Brahms	Violin Sonata No. 2 in A major	Op. 100	2019-02-09T19:30:00-05:00	concerts/2019/wang-xi
+Violin and Piano	Brahms1886a	Johannes Brahms	Violin Sonata No. 2 in A major	Op. 100	2022-08-20T16:00:00-04:00	concerts/2022/zyzak-gorini
+Violin and Piano	Brahms1888a	Johannes Brahms	Violin Sonata No. 3 in D minor	Op. 108	2021-06-26T15:00:00-04:00	concerts/2021/lewis-ozel
+Violin and Piano	Brahms1888a	Johannes Brahms	Violin Sonata No. 3 in D minor	Op. 108	2022-10-22T15:00:00-04:00	concerts/2022/park-sasaki
+Violin and Piano	Brown2013a	Michael Brown	Sonata for Violin and Piano		2019-05-11T19:30:00-04:00	concerts/2019/tekalli-duo
+Violin and Piano	Debussy1917a	Claude Debussy	Violin Sonata		2019-10-12T19:30:00-04:00	concerts/2019/horowitz-wu
+Violin and Piano	Dorman2011a	Avner Dorman	Violin Sonata No. 3		2018-12-22T19:30:00-05:00	concerts/2018/orth-duo
+Violin and Piano	Fauré1916a	Gabriel Fauré	Violin Sonata No. 2 in E minor	Op. 108	2021-06-26T15:00:00-04:00	concerts/2021/lewis-ozel
+Violin and Piano	Franck1886a	César Franck	Violin Sonata in A major		2021-05-29T15:00:00-04:00	concerts/2021/kasdan-amper
+Violin and Piano	Franck1886a	César Franck	Violin Sonata in A major		2023-04-01T15:00:00-04:00	concerts/2023/wolf
+Violin and Piano	Grieg1886a	Edvard Grieg	Violin Sonata No. 3	Op. 45	2018-12-22T19:30:00-05:00	concerts/2018/orth-duo
+Violin and Piano	Janáček1914a	Leoš Janáček	Violin Sonata		2019-10-12T19:30:00-04:00	concerts/2019/horowitz-wu
+Violin and Piano	Janáček1914a	Leoš Janáček	Violin Sonata		2023-01-14T14:00:00-05:00	concerts/2023/zaks-ji
+Violin and Piano	Janáček1914a	Leoš Janáček	Violin Sonata		2022-08-20T16:00:00-04:00	concerts/2022/zyzak-gorini
+Violin and Piano	Korngold1916a	Erich Korngold	Suite from “Much Ado About Nothing”	Op. 11	2023-01-14T14:00:00-05:00	concerts/2023/zaks-ji
+Violin and Piano	Kreisler1905a	Fritz Kreisler	Tambourin Chinois	Op. 3	2020-02-15T19:30:00-05:00	concerts/2020/szokolay-simsive
+Violin and Piano	Lekeu1892a	Guillaume Lekeu	Violin Sonata in G major	V. 64	2021-05-29T15:00:00-04:00	concerts/2021/kasdan-amper
+Violin and Piano	Messiaen1932a	Olivier Messiaen	Thème et Variations		2019-05-11T19:30:00-04:00	concerts/2019/tekalli-duo
+Violin and Piano	Messiaen1932a	Olivier Messiaen	Thème et Variations		2023-04-01T15:00:00-04:00	concerts/2023/wolf
+Violin and Piano	Mozart1778_	Wolfgang Amadeus Mozart	Violin Sonata No. 18 in G major	K. 301	2023-01-14T14:00:00-05:00	concerts/2023/zaks-ji
+Violin and Piano	Mozart1778a	Wolfgang Amadeus Mozart	Violin Sonata No. 20 in C major	K. 303	2021-06-26T15:00:00-04:00	concerts/2021/lewis-ozel
+Violin and Piano	Mozart1778a	Wolfgang Amadeus Mozart	Violin Sonata No. 20 in C major	K. 303	2022-08-27T16:00:00-04:00	concerts/2022/meinrenken-weaver
+Violin and Piano	Mozart1778b	Wolfgang Amadeus Mozart	Violin Sonata No. 21 in E minor	K. 304	2022-03-19T15:00:00-04:00	concerts/2022/kanagawa-simsive
+Violin and Piano	Mozart1784b	Wolfgang Amadeus Mozart	Violin Sonata No. 32 in B-flat major	K. 454	2022-10-22T15:00:00-04:00	concerts/2022/park-sasaki
+Violin and Piano	Paganini1820a11	Niccolò Paganini	Caprice No. 11 in C major		2023-01-14T14:00:00-05:00	concerts/2023/zaks-ji
+Violin and Piano	Poulenc1943a	Francis Poulenc	Violin Sonata	FP 119	2022-03-19T15:00:00-04:00	concerts/2022/kanagawa-simsive
+Violin and Piano	Poulenc1943a	Francis Poulenc	Violin Sonata	FP 119	2020-02-15T19:30:00-05:00	concerts/2020/szokolay-simsive
+Violin and Piano	Prokofiev1935a	Sergei Prokofiev	Violin Concerto No. 2 in G minor	Op. 63	2022-11-19T14:00:00-05:00	concerts/2022/szokolay-chen
+Violin and Piano	Prokofiev1935a	Sergei Prokofiev	Violin Concerto No. 2 in G minor	Op. 63	2022-11-19T14:00:00-05:00	concerts/2022/szokolay-chen
+Violin and Piano	Prokofiev1943a	Sergei Prokofiev	Violin Sonata in D major	Op. 94a	2021-11-13T14:00:00-05:00	concerts/2021/leunis-lu
+Violin and Piano	Ravel1897a	Maurice Ravel	Sonata posthume for violin and piano	M. 12	2021-05-29T15:00:00-04:00	concerts/2021/kasdan-amper
+Violin and Piano	Ravel1914a	Maurice Ravel	Deux mélodies hébraiques		2018-12-22T19:30:00-05:00	concerts/2018/orth-duo
+Violin and Piano	Ravel1917c	Maurice Ravel	Le tombeau de Couperin (arr. S. Tekalli)	M. 68	2019-05-11T19:30:00-04:00	concerts/2019/tekalli-duo
+Violin and Piano	Ravel1924a	Maurice Ravel	Tzigane	M. 76	2021-09-25T15:00:00-04:00	concerts/2021/meinrenken-kim
+Violin and Piano	Ravel1924a	Maurice Ravel	Tzigane	M. 76	2022-11-19T14:00:00-05:00	concerts/2022/szokolay-chen
+Violin and Piano	Ravel1927a	Maurice Ravel	Violin Sonata in G major	M. 77	2019-10-12T19:30:00-04:00	concerts/2019/horowitz-wu
+Violin and Piano	Ravel1927a	Maurice Ravel	Violin Sonata in G major	M. 77	2021-11-13T14:00:00-05:00	concerts/2021/leunis-lu
+Violin and Piano	Ravel1927a	Maurice Ravel	Violin Sonata in G major	M. 77	2022-08-27T16:00:00-04:00	concerts/2022/meinrenken-weaver
+Violin and Piano	Ravel1927a	Maurice Ravel	Violin Sonata in G major	M. 77	2018-12-22T19:30:00-05:00	concerts/2018/orth-duo
+Violin and Piano	Saint-Saëns1877a	Camille Saint-Saëns	Danse macabre	Op. 40	2021-10-30T15:00:00-04:00	concerts/2021/szokolay-lu
+Violin and Piano	Schoenfeld1990a	Paul Schoenfeld	Four Souvenirs		2023-01-14T14:00:00-05:00	concerts/2023/zaks-ji
+Violin and Piano	Schubert1817b	Franz Schubert	Violin Sonata in A major	D. 574	2022-08-20T16:00:00-04:00	concerts/2022/zyzak-gorini
+Violin and Piano	Schumann1851a	Robert Schumann	Violin Sonata No. 1 in A minor	Op. 105	2021-09-25T15:00:00-04:00	concerts/2021/meinrenken-kim
+Violin and Piano	Schumann1853b	Clara Schumann	Three Romances	Op. 22	2022-10-22T15:00:00-04:00	concerts/2022/park-sasaki
+Violin and Piano	Strauss1888a	Richard Strauss	Violin Sonata in E-flat major	Op. 18	2021-10-30T15:00:00-04:00	concerts/2021/szokolay-lu
+Violin and Piano	Stravinsky1934a	Igor Stravinsky	Divertimento from <i>Le baiser de la fée</i>		2022-10-22T15:00:00-04:00	concerts/2022/park-sasaki
+Violin and Piano	Stravinsky1934a	Igor Stravinsky	Divertimento from <i>Le baiser de la fée</i>		2019-02-09T19:30:00-05:00	concerts/2019/wang-xi
+Cello and Piano	Bach1740b	Johann Sebastian Bach	Viola da Gamba Sonata No. 3 in G minor	BWV 1029	2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
+Cello and Piano	Beach1893a	Amy Beach	Romance (transcribed for cello by S. DeCaprio)	Op. 23	2022-05-14T15:00:00-04:00	concerts/2022/decaprio-park
+Cello and Piano	Beethoven1801d	Ludwig van Beethoven	7 Variations on “Bei Männern, welche Liebe fühlen” from <i>The Magic Flute</i>	WoO. 46	2023-03-25T15:00:00-04:00	concerts/2023/yang-bang
+Cello and Piano	Beethoven1808a	Ludwig van Beethoven	Cello Sonata No. 3 in A major	Op. 69	2021-12-11T14:00:00-05:00	concerts/2021/katz-myer
+Cello and Piano	Boulanger1911b	Lili Boulanger	Deux Morceaux	Op. 17	2023-03-25T15:00:00-04:00	concerts/2023/yang-bang
+Cello and Piano	Brahms1865a	Johannes Brahms	Cello Sonata No. 1 in E minor	Op. 38	2023-03-25T15:00:00-04:00	concerts/2023/yang-bang
+Cello and Piano	Chen2003a	Shih-Hui Chen	Shui		2023-03-25T15:00:00-04:00	concerts/2023/yang-bang
+Cello and Piano	Debussy1915a	Claude Debussy	Sonata for Cello and Piano	L. 135	2022-05-14T15:00:00-04:00	concerts/2022/decaprio-park
+Cello and Piano	Falla1914a	Manuel de Falla	Suite Populaire Espagnole		2023-03-25T15:00:00-04:00	concerts/2023/yang-bang
+Cello and Piano	Janáček1923a	Leoš Janáček	Pohádka		2021-12-11T14:00:00-05:00	concerts/2021/katz-myer
+Cello and Piano	Martinů1952a	Bohuslav Martinů	Sonata No. 3 for Cello and Piano	H. 340	2022-05-14T15:00:00-04:00	concerts/2022/decaprio-park
+Cello and Piano	Prokofiev1949a	Sergei Prokofiev	Cello Sonata in C major	Op. 119	2022-05-14T15:00:00-04:00	concerts/2022/decaprio-park
+Cello and Piano	Saint-Saëns1886a	Camille Saint-Saëns	The Carnival of the Animals: 13. The Swan		2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
+Cello and Piano	Schubert1824a	Franz Schubert	Arpeggione Sonata in A minor	D. 821	2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
+Cello and Piano	Schumann1849a	Robert Schumann	Fantasiestücke	Op. 73	2021-12-11T14:00:00-05:00	concerts/2021/katz-myer
+Cello and Piano	Shostakovich1934a	Dmitri Shostakovich	Sonata for Cello and Piano in D minor	Op. 40	2021-12-11T14:00:00-05:00	concerts/2021/katz-myer
+Piano Trio	Baker1992a	David Nathaniel Baker	Roots II		2022-04-09T15:00:00-04:00	concerts/2022/trio-gaia
+Piano Trio	Beethoven1811a	Ludwig van Beethoven	Piano Trio in B-flat major (“Archduke”)	Op. 97	2022-04-09T15:00:00-04:00	concerts/2022/trio-gaia
+Piano Trio	Boulanger1914a	Lili Boulanger	“D’un vieux jardin” from Three Pieces (arr. Merz Trio)		2022-05-28T15:00:00-04:00	concerts/2022/merz-trio
+Piano Trio	Brahms1882a	Johannes Brahms	Piano Trio No. 2 in C major	Op. 87	2022-05-28T15:00:00-04:00	concerts/2022/merz-trio
+Piano Trio	Chausson1881a	Ernest Chausson	Piano Trio in G minor	Op. 3	2021-12-04T14:00:00-05:00	concerts/2021/yale—trio
+Piano Trio	Mozart1788b	Wolfgang Amadeus Mozart	Piano Trio in E major	K. 542	2021-12-04T14:00:00-05:00	concerts/2021/yale—trio
+Piano Trio	Ravel1914b	Maurice Ravel	Piano Trio	M. 67	2020-09-12T15:00:00-04:00	concerts/2020/aya-trio
+Piano Trio	Ravel1920b	Maurice Ravel	La Valse (arr. Merz Trio)	M. 72b	2022-05-28T15:00:00-04:00	concerts/2022/merz-trio
+Piano Trio	Schubert1827c	Franz Schubert	Piano Trio No. 2 in E-flat major	D. 929	2023-01-28T14:00:00-05:00	concerts/2023/trio-conventi
+Piano Trio	Schumann1851b	Robert Schumann	Piano Trio No. 3 in G minor	Op. 110	2023-01-28T14:00:00-05:00	concerts/2023/trio-conventi
+Piano Trio	Shostakovich1923a	Dmitri Shostakovich	Piano Trio No. 1 in C minor	Op. 8	2022-05-28T15:00:00-04:00	concerts/2022/merz-trio
+Piano Trio	Tchaikovsky1882a	Pyotr Ilyich Tchaikovsky	Piano Trio in A minor	Op. 50	2020-09-12T15:00:00-04:00	concerts/2020/aya-trio
+Piano Trio	Tower2004a	Joan Tower	For Daniel		2021-12-04T14:00:00-05:00	concerts/2021/yale—trio
+String Quartet	Beethoven1799a	Ludwig van Beethoven	String Quartet No. 5 in A major	Op. 18:5	2022-12-17T14:00:00-05:00	concerts/2022/abeo-quartet
+String Quartet	Beethoven1806b	Ludwig van Beethoven	String Quartet No. 8 in E minor	Op. 59:2	2021-09-04T15:00:00-04:00	concerts/2021/barlourdet-quartet
+String Quartet	Beethoven1825a	Ludwig van Beethoven	String Quartet No. 15 in A minor	Op. 132	2022-03-05T14:00:00-05:00	concerts/2022/callisto-quartet
+String Quartet	Beethoven1826a	Ludwig van Beethoven	String Quartet No. 14 in C-sharp minor	Op. 131	2022-09-10T15:00:00-04:00	concerts/2022/barlourdet-quartet2
+String Quartet	Brahms1873a	Johannes Brahms	String Quartet in A minor	Op. 51:2	2022-09-10T15:00:00-04:00	concerts/2022/barlourdet-quartet2
+String Quartet	Debussy1893a	Claude Debussy	String Quartet in G minor	L. 91	2021-09-04T15:00:00-04:00	concerts/2021/barlourdet-quartet
+String Quartet	Dvořák1895a	Antonín Dvořák	String Quartet No. 13 in G major	Op. 106	2023-03-16T19:30:00-04:00	concerts/2023/bennewitz-quartet
+String Quartet	Janáček1928a	Leoš Janáček	String Quartet No. 2, “Intimate Letters”		2023-03-16T19:30:00-04:00	concerts/2023/bennewitz-quartet
+String Quartet	Mendelssohn1827a	Felix Mendelssohn	String Quartet No. 2 in A minor	Op. 13	2022-03-05T14:00:00-05:00	concerts/2022/callisto-quartet
+String Quartet	Mozart1772a	Wolfgang Amadeus Mozart	String Quartet in C Major	K. 157	2023-03-16T19:30:00-04:00	concerts/2023/bennewitz-quartet
+String Quartet	Mozart1785a	Wolfgang Amadeus Mozart	String Quartet No. 19 in C major (“Dissonant”)	K. 465	2022-12-17T14:00:00-05:00	concerts/2022/abeo-quartet
+String Quartet	Tchaikovsky1892a	Pyotr Ilyich Tchaikovsky	The Nutcracker (selections)	Op. 71	2022-12-17T14:00:00-05:00	concerts/2022/abeo-quartet
+Oboe and Piano	Dutilleux1947a	Henri Dutilleux	Sonata for Oboe and Piano		2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
+Oboe and Piano	Morris2007a	Alyssa Morris	Four Personalities		2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
+Oboe and Piano	Musgrave2008a	Thea Musgrave	Night Windows		2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
+Oboe and Piano	Schumann1853a	Clara Schumann	Three Romances	Op. 22	2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
+Clarinet and Piano	Bauer1932a	Marion Bauer	Sonata For Clarinet And Piano		2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive
+Clarinet and Piano	Brahms1894b	Johannes Brahms	Clarinet Sonata No. 2 in E-flat major	Op. 120:2	2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive
+Clarinet and Piano	Gershwin1926a	George Gershwin	Three Preludes (arr. C. Neidich)		2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive
+Voice and Piano	Barber1947a	Samuel Barber	“Knoxville: Summer of 1915”	Op. 24	2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Bonds1	Margaret Bonds	“He’s Got the Whole World in His Hand”		2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Brahms1874a	Johannes Brahms	Heimweh (Longing for home)	Op. 63:7–9	2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Copeland1954a	Aaron Copeland	“Laurie’s Song” (aria from <i>The Tender Land</i>)		2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Ives1895a	Charles Ives	“Songs My Mother Taught Me”		2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Miller1980a	George Hubbard Miller	“Rumstikka Fumadiddle”		2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Poulenc1960a	Francis Poulenc	La Courte Paille (The short straw)	FP 178	2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Schubert1814a	Franz Schubert	“Gretchen am Spinnrade”	D. 118	2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Schubert1817a	Franz Schubert	“An die Musik”	D. 547	2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Schubert1819a	Franz Schubert	“Nachstuck”	D. 672	2022-11-05T14:00:00-04:00	concerts/2022/robertson-lorusso
+Voice and Piano	Wolf1896a	Hugo Wolf	Italienisches Liederbuch (Italian Songbook)		2018-10-19T19:30:00-04:00	concerts/2018/curtis-opera
+Violin and Cello	Halvorsen1897a	Handel-Halvorsen	Sarabande con variazioni (arr. Martins)		2022-01-08T14:00:00-05:00	concerts/2022/lewis-martins
+Violin and Cello	Kodály1914a	Zoltán Kodály	Duo for violin and cello	Op. 7	2022-01-08T14:00:00-05:00	concerts/2022/lewis-martins
+Violin and Cello	Ravel1922a	Maurice Ravel	Sonata for violin and cello	M. 73	2022-01-08T14:00:00-05:00	concerts/2022/lewis-martins
+Violin and Cello	Villa-Lobos1940a	Heitor Villa-Lobos	Five Preludes for Guitar (arr. Martins)		2022-01-08T14:00:00-05:00	concerts/2022/lewis-martins
+Violin and Cello	Widmann2008a	Jörg Widmann	24 Duos for violin and cello (selections)		2022-01-08T14:00:00-05:00	concerts/2022/lewis-martins
+Violin and Viola	Glière1909a	Reinhold Glière	Selections from Huit Morceaux	Op. 39	2019-06-07T19:30:00-04:00	concerts/2019/orsen-garbot
+Violin and Viola	Martinů1947a	Bohuslav Martinů	Three Madrigals	H. 313	2019-06-07T19:30:00-04:00	concerts/2019/orsen-garbot
+Violin and Viola	Mozart1783b	Wolfgang Amadeus Mozart	Duo in G major for Violin and Viola	K. 423	2019-06-07T19:30:00-04:00	concerts/2019/orsen-garbot
+Violin and Viola	Sibelius1892a	Jean Sibelius	Duo in C major for Violin and Viol		2019-06-07T19:30:00-04:00	concerts/2019/orsen-garbot
+Solo Violin	Bach1720a	Johann Sebastian Bach	Violin Sonata in G minor	BWV 1001	2022-06-25T19:30:00-04:00	concerts/2022/kim
+Solo Violin	Bach1720b	Johann Sebastian Bach	Violin Sonata in C major	BWV 1005	2022-03-19T15:00:00-04:00	concerts/2022/kanagawa-simsive
+Solo Violin	Bach1720b	Johann Sebastian Bach	Violin Sonata in C major	BWV 1005	2021-09-25T15:00:00-04:00	concerts/2021/meinrenken-kim
+Solo Violin	Bartók1944a	Bela Bartók	Sonata for Solo Violin	Sz. 117	2022-06-25T19:30:00-04:00	concerts/2022/kim
+Solo Violin	Kreisler1911a	Fritz Kreisler	Recitativo and Scherzo-Caprice	Op. 6	2021-09-25T15:00:00-04:00	concerts/2021/meinrenken-kim
+Solo Violin	Kreisler1917a	Fritz Kreisler	La Gitana		2022-08-27T16:00:00-04:00	concerts/2022/meinrenken-weaver
+Solo Violin	Ysaÿe1923a	Eugène Ysaÿe	Sonata No. 1 in G minor for solo violin (ded. Joseph Szigeti)	Op. 27:1	2022-06-25T19:30:00-04:00	concerts/2022/kim
+Solo Violin	Ysaÿe1923b	Eugène Ysaÿe	Sonata No. 3 In D Minor for solo violin (“Ballade”)	Op. 27:3	2023-04-01T15:00:00-04:00	concerts/2023/wolf
+Solo Violin	Ysaÿe1923c	Eugène Ysaÿe	Sonata No. 6 in E major for solo violin (ded. Manuel Quiroga)	Op. 27:6	2022-08-27T16:00:00-04:00	concerts/2022/meinrenken-weaver
+Solo Cello	Dallapiccola1945a	Luigi Dallapiccola	Ciaccona (Intermezzo e Adagio)		2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
+Solo Cello	Dutilleux1976a	Henri Dutilleux	Trois Strophes sur le nom de Sacher		2021-09-11T15:00:00-04:00	concerts/2021/park-vardenega
+Solo Oboe	Silvestrini1997a	Gilles Silvestrini	Études: I. Hôtel des Roches (Monet 1870)		2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
+Solo Oboe	Telemann1733a	Georg Philipp Telemann	Fantasia in B-flat major	TWV 40:5	2021-05-08T15:00:00-04:00	concerts/2021/honn-mak
+Solo Clarinet	Hersant2006a	Philippe Hersant	In the Dark		2023-03-04T14:00:00-05:00	concerts/2023/spiegelberg-simsive

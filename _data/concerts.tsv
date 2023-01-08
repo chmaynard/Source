@@ -1,102 +1,102 @@
-iso_date	concert	filename	type	path
-2017-09-09T19:30:00-04:00	001	krasner	Solo Piano	concerts/2017/krasner
-2017-10-14T19:30:00-04:00	002	ekery-boudreau	Voice and Piano	concerts/2017/ekery-boudreau
-2017-11-11T19:30:00-05:00	003	jeong	Solo Piano	concerts/2017/jeong
-2017-12-09T19:30:00-05:00	004	lee	Solo Piano	concerts/2017/lee
-2018-01-13T19:30:00-05:00	005	yao	Solo Piano	concerts/2018/yao
-2018-02-10T19:30:00-05:00	006	simsive	Solo Piano	concerts/2018/simsive
-2018-03-10T19:30:00-05:00	007	wu	Solo Piano	concerts/2018/wu
-2018-04-14T19:30:00-04:00	008	ekery-boudreau2	Voice and Piano	concerts/2018/ekery-boudreau
-2018-05-12T19:30:00-04:00	009	giesbrecht	Solo Piano	concerts/2018/giesbrecht
-2018-06-15T19:30:00-04:00	010	goodpasture	Solo Piano	concerts/2018/goodpasture
-2018-09-08T19:30:00-04:00	011	yao-chaplikov	Piano Four-Hands	concerts/2018/yao-chaplikov
-2018-10-19T19:30:00-04:00	012	curtis-opera	Voice and Piano	concerts/2018/curtis-opera
-2018-11-10T19:30:00-05:00	013	strata	Solo Piano	concerts/2018/strata
-2018-12-01T19:30:00-05:00	014	tetzloff	Solo Piano	concerts/2018/tetzloff
-2018-12-22T19:30:00-05:00	015	orth-duo	Violin and Piano	concerts/2018/orth-duo
-2019-01-12T19:30:00-05:00	016	huang	Solo Piano	concerts/2019/huang
-2019-02-09T19:30:00-05:00	017	wang-xi	Violin and Piano	concerts/2019/wang-xi
-2019-03-02T19:30:00-05:00	018	giesbrecht-korting	Piano Four-Hands	concerts/2019/giesbrecht-korting
-2019-04-20T19:30:00-04:00	019	poon	Solo Piano	concerts/2019/poon
-2019-05-11T19:30:00-04:00	020	tekalli-duo	Violin and Piano	concerts/2019/tekalli-duo
-2019-06-07T19:30:00-04:00	021	orsen-garbot	Violin and Viola	concerts/2019/orsen-garbot
-2019-10-12T19:30:00-04:00	022	horowitz-wu	Violin and Piano	concerts/2019/horowitz-wu
-2019-11-09T19:30:00-05:00	023	tang	Solo Piano	concerts/2019/tang
-2020-01-04T19:30:00-05:00	024	lu	Solo Piano	concerts/2020/lu
-2020-01-25T19:30:00-05:00	025	orth	Solo Piano	concerts/2020/orth
-2020-02-15T19:30:00-05:00	026	szokolay-simsive	Violin and Piano	concerts/2020/szokolay-simsive
-2020-03-14T19:30:00-04:00	027	tetzloff2	Solo Piano	concerts/2020/tetzloff
-2020-09-12T15:00:00-04:00	028	aya-trio	Piano Trio	concerts/2020/aya-trio
-2020-10-03T15:00:00-04:00	029	gusev	Solo Piano	concerts/2020/gusev
-2021-04-03T15:00:00-04:00	030	mak	Solo Piano	concerts/2021/mak
-2021-04-17T15:00:00-04:00	031	li	Solo Piano	concerts/2021/li
-2021-05-01T15:00:00-04:00	032	bartosik	Solo Piano	concerts/2021/bartosik
-2021-05-08T15:00:00-04:00	033	honn-mak	Oboe and Piano	concerts/2021/honn-mak
-2021-05-15T15:00:00-04:00	034	gabrielian	Solo Piano	concerts/2021/gabrielian
-2021-05-29T15:00:00-04:00	035	kasdan-amper	Violin and Piano	concerts/2021/kasdan-amper
-2021-06-19T15:00:00-04:00	036	qian	Solo Piano	concerts/2021/qian
-2021-06-26T15:00:00-04:00	037	lewis-ozel	Violin and Piano	concerts/2021/lewis-ozel
-2021-09-04T15:00:00-04:00	038	barlourdet-quartet	String Quartet	concerts/2021/barlourdet-quartet
-2021-09-11T15:00:00-04:00	039	park-vardenega	Cello and Piano	concerts/2021/park-vardenega
-2021-09-25T15:00:00-04:00	040	meinrenken-kim	Violin and Piano	concerts/2021/meinrenken-kim
-2021-10-09T15:00:00-04:00	041	gusev2	Solo Piano	concerts/2021/gusev
-2021-10-16T15:00:00-04:00	042	bartosik2	Solo Piano	concerts/2021/bartosik2
-2021-10-30T15:00:00-04:00	043	szokolay-lu	Violin and Piano	concerts/2021/szokolay-lu
-2021-11-06T15:00:00-04:00	044	yao2	Solo Piano	concerts/2021/yao
-2021-11-13T14:00:00-05:00	045	leunis-lu	Violin and Piano	concerts/2021/leunis-lu
-2021-12-04T14:00:00-05:00	046	yale—trio	Piano Trio	concerts/2021/yale—trio
-2021-12-11T14:00:00-05:00	047	katz-myer	Cello and Piano	concerts/2021/katz-myer
-2022-01-08T14:00:00-05:00	048	lewis-martins	Violin and Cello	concerts/2022/lewis-martins
-2022-01-22T14:00:00-05:00	049	mak2	Solo Piano	concerts/2022/mak
-2022-02-12T14:00:00-05:00	050	ozel	Solo Piano	concerts/2022/ozel
-2022-03-05T14:00:00-05:00	051	callisto-quartet	String Quartet	concerts/2022/callisto-quartet
-2022-03-19T15:00:00-04:00	052	kanagawa-simsive	Violin and Piano	concerts/2022/kanagawa-simsive
-2022-04-04T15:00:00-04:00	053	tran	Solo Guitar	concerts/2022/tran
-2022-04-09T15:00:00-04:00	054	trio-gaia	Piano Trio	concerts/2022/trio-gaia
-2022-05-14T15:00:00-04:00	055	decaprio-park	Cello and Piano	concerts/2022/decaprio-park
-2022-05-28T15:00:00-04:00	056	merz-trio	Piano Trio	concerts/2022/merz-trio
-2022-06-04T15:00:00-04:00	057	amper	Solo Piano	concerts/2022/amper
-2022-06-25T19:30:00-04:00	058	kim	Solo Violin	concerts/2022/kim
-2022-06-26T15:00:00-04:00	059	gagliano	Solo Piano	concerts/2022/gagliano
-2022-08-13T16:00:00-04:00	060	tang2	Solo Piano	concerts/2022/tang
-2022-08-20T16:00:00-04:00	061	zyzak-gorini	Violin and Piano	concerts/2022/zyzak-gorini
-2022-08-27T16:00:00-04:00	062	meinrenken-weaver	Violin and Piano	concerts/2022/meinrenken-weaver
-2022-09-10T15:00:00-04:00	063	barlourdet-quartet2	String Quartet	concerts/2022/barlourdet-quartet
-2022-10-08T15:00:00-04:00	064	wang	Solo Piano	concerts/2022/wang
-2022-10-22T15:00:00-04:00	065	park-sasaki	Violin and Piano	concerts/2022/park-sasaki
-2022-11-05T14:00:00-04:00	066	robertson-lorusso	Voice and Piano	concerts/2022/robertson-lorusso
-2022-11-19T14:00:00-05:00	067	szokolay-chen	Violin and Piano	concerts/2022/szokolay-chen
-2022-12-03T14:00:00-05:00	068	ozel2	Solo Piano	concerts/2022/ozel2
-2022-12-17T14:00:00-05:00	069	abeo-quartet	String Quartet	concerts/2022/abeo-quartet
-2023-01-14T14:00:00-05:00	070	zaks-ji		
-2023-01-28T14:00:00-05:00	071	trio-conventi		
-2023-02-11T14:00:00-05:00	072	bass		
-2023-02-18T14:00:00-05:00	073	orsen-columbat		
-2023-03-04T14:00:00-05:00	074	spiegelberg-simsive		
-2023-03-11T15:00:00-05:00	075	fensome		
-2023-03-16T19:30:00-04:00	076	bennewitz-quartet		
-2023-03-25T15:00:00-04:00	077	yang-bang		
-2023-04-01T15:00:00-04:00	078	wolf		
-2023-04-08T15:00:00-04:00	079	trio-gaia2		
-2023-04-22T15:00:00-04:00	081	myer		
-2023-05-27T15:00:00-04:00	082	orth-azzi		
-2023-06-03T15:00:00-04:00	083	lio		
-2023-06-17T15:00:00-04:00	084	wang-tbd		
-2023-08-12T15:00:00-04:00	085	chan-tbd		
-2023-08-26T15:00:00-04:00	086	feil-wu		
-2023-09-09T15:00:00-04:00	087	weaver		
-2023-09-23T15:00:00-04:00	088	callisto-quartet2		
-2023-10-14T15:00:00-04:00	089	merz-trio2		
-2023-10-28T15:00:00-04:00	090	decaprio-tbd		
-2023-11-11T14:00:00-05:00	091	sekino		
-2023-11-18T14:00:00-05:00	092	ekery-boudreau3		
-2023-12-02T14:00:00-05:00	093	meinrenken-tbd		
-2023-12-16T14:00:00-05:00	094	wohlgemuth-colombat		
-2024-01-06T14:00:00-05:00	095	gray-lio		
-2024-01-20T14:00:00-05:00	096	ozel3		
-2024-02-03T14:00:00-05:00	097	johnson		
-2024-02-17T14:00:00-05:00	098	lysander-trio		
-2024-03-16T15:00:00-04:00	099	lin		
-2024-04-13T15:00:00-04:00	100	thomas		
-2024-05-11T15:00:00-04:00	101	nersessian		
-2024-06-08T15:00:00-04:00	102	xu-fellenberg		
+iso_date	concert	type	path
+2017-09-09T19:30:00-04:00	krasner	Solo Piano	concerts/2017/krasner
+2017-10-14T19:30:00-04:00	ekery-boudreau	Voice and Piano	concerts/2017/ekery-boudreau
+2017-11-11T19:30:00-05:00	jeong	Solo Piano	concerts/2017/jeong
+2017-12-09T19:30:00-05:00	lee	Solo Piano	concerts/2017/lee
+2018-01-13T19:30:00-05:00	yao	Solo Piano	concerts/2018/yao
+2018-02-10T19:30:00-05:00	simsive	Solo Piano	concerts/2018/simsive
+2018-03-10T19:30:00-05:00	wu	Solo Piano	concerts/2018/wu
+2018-04-14T19:30:00-04:00	ekery-boudreau2	Voice and Piano	concerts/2018/ekery-boudreau2
+2018-05-12T19:30:00-04:00	giesbrecht	Solo Piano	concerts/2018/giesbrecht
+2018-06-15T19:30:00-04:00	goodpasture	Solo Piano	concerts/2018/goodpasture
+2018-09-08T19:30:00-04:00	yao-chaplikov	Piano Four-Hands	concerts/2018/yao-chaplikov
+2018-10-19T19:30:00-04:00	curtis-opera	Voice and Piano	concerts/2018/curtis-opera
+2018-11-10T19:30:00-05:00	strata	Solo Piano	concerts/2018/strata
+2018-12-01T19:30:00-05:00	tetzloff	Solo Piano	concerts/2018/tetzloff
+2018-12-22T19:30:00-05:00	orth-duo	Violin and Piano	concerts/2018/orth-duo
+2019-01-12T19:30:00-05:00	huang	Solo Piano	concerts/2019/huang
+2019-02-09T19:30:00-05:00	wang-xi	Violin and Piano	concerts/2019/wang-xi
+2019-03-02T19:30:00-05:00	giesbrecht-korting	Piano Four-Hands	concerts/2019/giesbrecht-korting
+2019-04-20T19:30:00-04:00	poon	Solo Piano	concerts/2019/poon
+2019-05-11T19:30:00-04:00	tekalli-duo	Violin and Piano	concerts/2019/tekalli-duo
+2019-06-07T19:30:00-04:00	orsen-garbot	Violin and Viola	concerts/2019/orsen-garbot
+2019-10-12T19:30:00-04:00	horowitz-wu	Violin and Piano	concerts/2019/horowitz-wu
+2019-11-09T19:30:00-05:00	tang	Solo Piano	concerts/2019/tang
+2020-01-04T19:30:00-05:00	lu	Solo Piano	concerts/2020/lu
+2020-01-25T19:30:00-05:00	orth	Solo Piano	concerts/2020/orth
+2020-02-15T19:30:00-05:00	szokolay-simsive	Violin and Piano	concerts/2020/szokolay-simsive
+2020-03-14T19:30:00-04:00	tetzloff2	Solo Piano	concerts/2020/tetzloff2
+2020-09-12T15:00:00-04:00	aya-trio	Piano Trio	concerts/2020/aya-trio
+2020-10-03T15:00:00-04:00	gusev	Solo Piano	concerts/2020/gusev
+2021-04-03T15:00:00-04:00	mak	Solo Piano	concerts/2021/mak
+2021-04-17T15:00:00-04:00	li	Solo Piano	concerts/2021/li
+2021-05-01T15:00:00-04:00	bartosik	Solo Piano	concerts/2021/bartosik
+2021-05-08T15:00:00-04:00	honn-mak	Oboe and Piano	concerts/2021/honn-mak
+2021-05-15T15:00:00-04:00	gabrielian	Solo Piano	concerts/2021/gabrielian
+2021-05-29T15:00:00-04:00	kasdan-amper	Violin and Piano	concerts/2021/kasdan-amper
+2021-06-19T15:00:00-04:00	qian	Solo Piano	concerts/2021/qian
+2021-06-26T15:00:00-04:00	lewis-ozel	Violin and Piano	concerts/2021/lewis-ozel
+2021-09-04T15:00:00-04:00	barlourdet-quartet	String Quartet	concerts/2021/barlourdet-quartet
+2021-09-11T15:00:00-04:00	park-vardenega	Cello and Piano	concerts/2021/park-vardenega
+2021-09-25T15:00:00-04:00	meinrenken-kim	Violin and Piano	concerts/2021/meinrenken-kim
+2021-10-09T15:00:00-04:00	gusev2	Solo Piano	concerts/2021/gusev2
+2021-10-16T15:00:00-04:00	bartosik2	Solo Piano	concerts/2021/bartosik2
+2021-10-30T15:00:00-04:00	szokolay-lu	Violin and Piano	concerts/2021/szokolay-lu
+2021-11-06T15:00:00-04:00	yao2	Solo Piano	concerts/2021/yao2
+2021-11-13T14:00:00-05:00	leunis-lu	Violin and Piano	concerts/2021/leunis-lu
+2021-12-04T14:00:00-05:00	yale—trio	Piano Trio	concerts/2021/yale—trio
+2021-12-11T14:00:00-05:00	katz-myer	Cello and Piano	concerts/2021/katz-myer
+2022-01-08T14:00:00-05:00	lewis-martins	Violin and Cello	concerts/2022/lewis-martins
+2022-01-22T14:00:00-05:00	mak2	Solo Piano	concerts/2022/mak2
+2022-02-12T14:00:00-05:00	ozel	Solo Piano	concerts/2022/ozel
+2022-03-05T14:00:00-05:00	callisto-quartet	String Quartet	concerts/2022/callisto-quartet
+2022-03-19T15:00:00-04:00	kanagawa-simsive	Violin and Piano	concerts/2022/kanagawa-simsive
+2022-04-04T15:00:00-04:00	tran	Solo Guitar	concerts/2022/tran
+2022-04-09T15:00:00-04:00	trio-gaia	Piano Trio	concerts/2022/trio-gaia
+2022-05-14T15:00:00-04:00	decaprio-park	Cello and Piano	concerts/2022/decaprio-park
+2022-05-28T15:00:00-04:00	merz-trio	Piano Trio	concerts/2022/merz-trio
+2022-06-04T15:00:00-04:00	amper	Solo Piano	concerts/2022/amper
+2022-06-25T19:30:00-04:00	kim	Solo Violin	concerts/2022/kim
+2022-06-26T15:00:00-04:00	gagliano	Solo Piano	concerts/2022/gagliano
+2022-08-13T16:00:00-04:00	tang2	Solo Piano	concerts/2022/tang2
+2022-08-20T16:00:00-04:00	zyzak-gorini	Violin and Piano	concerts/2022/zyzak-gorini
+2022-08-27T16:00:00-04:00	meinrenken-weaver	Violin and Piano	concerts/2022/meinrenken-weaver
+2022-09-10T15:00:00-04:00	barlourdet-quartet2	String Quartet	concerts/2022/barlourdet-quartet2
+2022-10-08T15:00:00-04:00	wang	Solo Piano	concerts/2022/wang
+2022-10-22T15:00:00-04:00	park-sasaki	Violin and Piano	concerts/2022/park-sasaki
+2022-11-05T14:00:00-04:00	robertson-lorusso	Voice and Piano	concerts/2022/robertson-lorusso
+2022-11-19T14:00:00-05:00	szokolay-chen	Violin and Piano	concerts/2022/szokolay-chen
+2022-12-03T14:00:00-05:00	ozel2	Solo Piano	concerts/2022/ozel2
+2022-12-17T14:00:00-05:00	abeo-quartet	String Quartet	concerts/2022/abeo-quartet
+2023-01-14T14:00:00-05:00	zaks-ji	Violin and Piano	concerts/2023/zaks-ji
+2023-01-28T14:00:00-05:00	trio-conventi	Piano Trio	concerts/2023/trio-conventi
+2023-02-11T14:00:00-05:00	bass	Solo Piano	concerts/2023/bass
+2023-02-18T14:00:00-05:00	orsen-columbat	Viola and Piano	concerts/2023/orsen-columbat
+2023-03-04T14:00:00-05:00	spiegelberg-simsive	Clarinet and Piano	concerts/2023/spiegelberg-simsive
+2023-03-11T15:00:00-05:00	fensome	Solo Piano	concerts/2023/fensome
+2023-03-16T19:30:00-04:00	bennewitz-quartet	String Quartet	concerts/2023/bennewitz-quartet
+2023-03-25T15:00:00-04:00	yang-bang	Cello and Piano	concerts/2023/yang-bang
+2023-04-01T15:00:00-04:00	wolf	Violin and Piano	concerts/2023/wolf
+2023-04-08T15:00:00-04:00	trio-gaia2	Piano Trio	concerts/2023/trio-gaia2
+2023-04-22T15:00:00-04:00	myer	Solo Piano	concerts/2023/myer
+2023-05-27T15:00:00-04:00	orth-azzi	Piano Four-Hands	concerts/2023/orth-azzi
+2023-06-03T15:00:00-04:00	lio	Solo Piano	concerts/2023/lio
+2023-06-17T15:00:00-04:00	wang-tbd	Violin and Piano	concerts/2023/wang-tbd
+2023-08-12T15:00:00-04:00	chan-tbd	Violin and Piano	concerts/2023/chan-tbd
+2023-09-09T15:00:00-04:00	weaver	Solo Piano	concerts/2023/weaver
+2023-09-23T15:00:00-04:00	callisto-quartet2	String Quartet	concerts/2023/callisto-quartet2
+2023-10-14T15:00:00-04:00	merz-trio2	Piano Trio	concerts/2023/merz-trio2
+2023-10-28T15:00:00-04:00	decaprio-tbd	Cello and Piano	concerts/2023/decaprio-tbd
+2023-11-11T14:00:00-05:00	sekino	Solo Piano	concerts/2023/sekino
+2023-11-18T14:00:00-05:00	ekery-boudreau3	Voice and Piano	concerts/2023/ekery-boudreau3
+2023-12-02T14:00:00-05:00	meinrenken-tbd	Violin and Piano	concerts/2023/meinrenken-tbd
+2024-01-06T14:00:00-05:00	gray-lio	Voice and Piano	concerts/2024/gray-lio
+2024-01-20T14:00:00-05:00	ozel3	Solo Piano	concerts/2024/ozel3
+2024-02-03T14:00:00-05:00	johnson	Solo Piano	concerts/2024/johnson
+2024-02-17T14:00:00-05:00	lysander-trio	Piano Trio	concerts/2024/lysander-trio
+2024-03-16T15:00:00-04:00	lin	Solo Piano	concerts/2024/lin
+2024-04-13T15:00:00-04:00	thomas	Viola and Piano	concerts/2024/thomas
+2024-05-11T15:00:00-04:00	nersessian	Solo Piano	concerts/2024/nersessian
+2024-06-08T15:00:00-04:00	xu-fellenberg	Piano Four-Hands	concerts/2024/xu-fellenberg
+2024-09-07T15:00:00-04:00	cohen-li	Viola and Piano	concerts/2024/cohen-li
+2024-10-12T15:00:00-04:00	chen-li	Cello and Piano	concerts/2024/chen-li

@@ -2,7 +2,7 @@
 title: Repertoire
 subtitle: Works performed by type and composer
 hide: false
-order: 3
+order: 4
 
 # TODO: Don't list repertoire if the corresponding concert is hidden or unpublished.
 ---

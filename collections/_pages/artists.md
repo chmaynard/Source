@@ -2,7 +2,7 @@
 title: Artists
 subtitle: Complete list of artists by instrument
 hide: false
-order: 4
+order: 5
 ---
 
 <style>
