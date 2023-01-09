@@ -185,7 +185,7 @@ cmm_stage()
 #------------------------------------------------------------------------------
 
 cmm_docs()  { open https://jekyllrb.com/docs/; }
-cmm_sync()  { rsync --recursive --archive --times --update $@; }
+#cmm_sync()  { rsync --recursive --archive --times --update $@; }
 
 cmm_precheck () 
 {
