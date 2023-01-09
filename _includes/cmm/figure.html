@@ -1,12 +1,12 @@
-{% assign media_file = site.static_files | where:"name", include.name %}
-{% assign media_path  = media_file[0].path %}
+{% assign media_name = include.name %}
+{% assign media_file = site.static_files | where:"name", media_name %}
+{% assign media_path = media_file[0].path %}
+{% assign media_data = site.data.media | find:"name", media_name %}
 
-{% assign media = site.data.media | find:"name", include.name %}
-{% assign type = media.type %}
-{% assign name = media.name %}
-{% assign caption = media.caption %}
-{% assign source = media.source %}
-{% assign website = media.website %}
+{% assign media_type = media_data.type | default: "image" %}
+{% assign media_caption = media_data.caption | default: nil %}
+{% assign media_source = media_data.source | default: nil %}
+{% assign media_website = media_data.website | default: nil %}
 
 {% capture div_class %}figure align-{{ include.align }}{% endcapture %}
 
@@ -16,7 +16,7 @@
 
 <!-- audio block -->
 
-{% if type == "audio" %}
+{% if media_type == "audio" %}
 
    <audio controls id="conducting-conversations" preload="auto"  volume="0.80" style="width: 600px;" >
    <source 
@@ -30,7 +30,7 @@
 
 <!-- video block -->
 
-{% if type == "video" %}
+{% if media_type == "video" %}
 
    {% assign aspect = include.aspect | default: "16x9" %}
 
@@ -64,7 +64,7 @@
 
 <!-- image block -->
 
-{% if type == "image" %}
+{% if media_type == "image" %}
 
    {% assign img_class = nil %} 
 
@@ -91,19 +91,19 @@
 
 </style>
 
-{% if source %}
-{% if website %}
-   {% capture source %} Credit: <a href='{{ website }}'>{{ source }}</a>{% endcapture %}
+{% if media_source %}
+{% if media_website %}
+   {% capture media_source %} Credit: <a href='{{ website }}'>{{ media_source }}</a>{% endcapture %}
 {% else %}
-   {% capture source %} Credit: {{ source }} {% endcapture %}
+   {% capture media_source %} Credit: {{ media_source }} {% endcapture %}
 {% endif %}
 {% endif %}
 
 <div id="figcaption">
    <figcaption>
-   {% if caption %} {{ caption }} {% endif %}
-   {% if caption and source %} <br/> {% endif %}
-   {% if source %} {{ source }} {% endif %}
+   {% if media_caption %} {{ media_caption }} {% endif %}
+   {% if media_caption and media_source %} <br/> {% endif %}
+   {% if media_source %} {{ media_source }} {% endif %}
    </figcaption>
 </div>
 
