@@ -1,8 +1,8 @@
 {% assign media_name = include.name %}
 {% assign media_file = site.static_files | where:"name", media_name %}
 {% assign media_path = media_file[0].path %}
-{% assign media_data = site.data.media | find:"name", media_name %}
 
+{% assign media_data = site.data.media | find:"name", media_name %}
 {% assign media_type = media_data.type | default: "image" %}
 {% assign media_caption = media_data.caption | default: nil %}
 {% assign media_source = media_data.source | default: nil %}
@@ -21,7 +21,7 @@
    <audio controls id="conducting-conversations" preload="auto"  volume="0.80" style="width: 600px;" >
    <source 
       type="audio/mpeg" 
-      src="https://f001.backblazeb2.com/file/corememorymusic/{{ name }}">
+      src="https://f001.backblazeb2.com/file/corememorymusic/{{ media_name }}">
    Your browser does not support the <code>audio</code> element.
    </audio>
 
@@ -54,7 +54,7 @@
       {% if poster %} poster="{{ poster_path }}" {% endif %}
       style="background-color:black;">
       <source 
-         src="https://corememorymusic.s3.us-west-001.backblazeb2.com/{{ name }}" 
+         src="https://corememorymusic.s3.us-west-001.backblazeb2.com/{{ media_name }}" 
          type="video/mp4">
       Your browser does not support the video tag.
    </video>
