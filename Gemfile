@@ -8,7 +8,7 @@ gem 'rake'
 # gem 'sassc'
 gem 'webrick'
 gem 'rubyzip'
-gem 'git'
+gem "git", ">= 1.13.0"
 
 group :jekyll_plugins do
    gem 'jekyll-include-cache'
