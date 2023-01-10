@@ -7,6 +7,8 @@ artists:
    - Justin DeFilippis, violin
    - Benjamin Zannoni, viola
    - Russell Houston, cello
+redirect_from:
+   - /concerts/2023/barlourdet-quartet3.html
 ---
 
 <br>
