@@ -2,8 +2,13 @@
 date: 2023-06-10 19:00:00Z
 title: An Afternoon with Albert Cano Smit
 artists: Albert Cano Smit, piano
-published: false
+published: true
 ---
+
+Join us on {{ page.date | date: "%A, %B %e, %Y at %-I:%M %P" }} to enjoy a performance by
+Albert Cano Smit, winner of the 2017 Walter W. Naumburg Piano Competition.
+
+<br/>
 
 ### About the Artist
 
