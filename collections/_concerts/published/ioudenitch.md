@@ -4,7 +4,6 @@ title: An Afternoon with Maria Ioudenitch
 artists: 
    - Maria Ioudenitch, violin
    - Motti Fang-Bentov, piano
-capacity: 0
 published: true
 ---
 
